@@ -1,0 +1,6 @@
+Product_ID,Product_Name,Category,Stock_Quantity,Unit_Price,Reorder_Level,Supplier
+P001,Rice,Groceries,50,55.00,10,Supplier A
+P002,Canned Sardines,Food,30,25.00,10,Supplier B
+P003,Instant Noodles,Food,100,15.00,20,Supplier C
+P004,Cooking Oil,Groceries,20,85.00,5,Supplier A
+P005,Soap,Personal Care,40,35.00,10,Supplier D

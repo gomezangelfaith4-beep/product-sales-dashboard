@@ -1,0 +1,1001 @@
+Transaction_ID,Transaction_Date,Product_ID,Product_Name,Category,Quantity_Sold,Unit_Price_PHP,Total_Sales_PHP,Stock_Quantity_After_Sale,Payment_Method
+TXN00555,2026-01-01,P003,Instant Noodles,Grocery,3,15,45,441,Cash
+TXN00817,2026-01-01,P005,Laundry Detergent,Household,1,55,55,19,Cash
+TXN00160,2026-01-02,P010,Bread Loaf,Bakery,1,65,65,81,Cash
+TXN00286,2026-01-02,P008,Bottled Water,Beverages,5,20,100,356,E-wallet
+TXN00304,2026-01-02,P002,Cooking Oil 1L,Grocery,1,95,95,63,Debit/Credit Card
+TXN00313,2026-01-02,P011,Eggs Dozen,Grocery,5,110,550,7,E-wallet
+TXN00437,2026-01-02,P001,Rice 5kg,Grocery,5,285,1425,0,E-wallet
+TXN00266,2026-01-03,P011,Eggs Dozen,Grocery,1,110,110,24,Cash
+TXN00376,2026-01-03,P003,Instant Noodles,Grocery,1,15,15,461,E-wallet
+TXN00570,2026-01-03,P009,Soft Drink 1.5L,Beverages,3,75,225,45,E-wallet
+TXN00792,2026-01-03,P003,Instant Noodles,Grocery,1,15,15,408,Debit/Credit Card
+TXN00049,2026-01-04,P006,Bath Soap,Personal Care,3,32,96,240,Cash
+TXN00075,2026-01-04,P006,Bath Soap,Personal Care,5,32,160,230,Cash
+TXN00302,2026-01-04,P006,Bath Soap,Personal Care,2,32,64,191,Cash
+TXN00408,2026-01-04,P011,Eggs Dozen,Grocery,1,110,110,0,Cash
+TXN00739,2026-01-04,P002,Cooking Oil 1L,Grocery,1,95,95,7,E-wallet
+TXN00054,2026-01-05,P011,Eggs Dozen,Grocery,1,110,110,73,Cash
+TXN00088,2026-01-05,P004,Canned Sardines,Grocery,2,28,56,279,Cash
+TXN00128,2026-01-05,P004,Canned Sardines,Grocery,4,28,112,263,Cash
+TXN00321,2026-01-05,P009,Soft Drink 1.5L,Beverages,1,75,75,94,Cash
+TXN00412,2026-01-05,P006,Bath Soap,Personal Care,2,32,64,174,E-wallet
+TXN00580,2026-01-05,P005,Laundry Detergent,Household,3,55,165,66,E-wallet
+TXN00614,2026-01-05,P006,Bath Soap,Personal Care,1,32,32,117,E-wallet
+TXN00695,2026-01-05,P003,Instant Noodles,Grocery,1,15,15,421,E-wallet
+TXN00771,2026-01-05,P009,Soft Drink 1.5L,Beverages,1,75,75,15,E-wallet
+TXN00957,2026-01-05,P001,Rice 5kg,Grocery,3,285,855,0,Cash
+TXN00002,2026-01-06,P003,Instant Noodles,Grocery,2,15,30,495,Cash
+TXN00438,2026-01-06,P008,Bottled Water,Beverages,1,20,20,314,Cash
+TXN00459,2026-01-06,P002,Cooking Oil 1L,Grocery,4,95,380,30,Cash
+TXN00498,2026-01-06,P007,Shampoo Sachet,Personal Care,1,8,8,505,Cash
+TXN00683,2026-01-06,P004,Canned Sardines,Grocery,1,28,28,174,Cash
+TXN00993,2026-01-06,P007,Shampoo Sachet,Personal Care,1,8,8,414,Cash
+TXN00375,2026-01-07,P006,Bath Soap,Personal Care,1,32,32,182,Cash
+TXN00640,2026-01-07,P003,Instant Noodles,Grocery,2,15,30,424,Debit/Credit Card
+TXN00756,2026-01-07,P006,Bath Soap,Personal Care,1,32,32,99,Debit/Credit Card
+TXN00810,2026-01-07,P009,Soft Drink 1.5L,Beverages,3,75,225,10,Cash
+TXN00815,2026-01-07,P008,Bottled Water,Beverages,1,20,20,248,E-wallet
+TXN00972,2026-01-07,P005,Laundry Detergent,Household,2,55,110,2,Cash
+TXN00536,2026-01-08,P012,Coffee 10s,Beverages,1,85,85,42,Cash
+TXN00776,2026-01-08,P007,Shampoo Sachet,Personal Care,4,8,32,451,Cash
+TXN00455,2026-01-09,P012,Coffee 10s,Beverages,3,85,255,59,Cash
+TXN00484,2026-01-09,P010,Bread Loaf,Bakery,2,65,130,19,E-wallet
+TXN00987,2026-01-09,P005,Laundry Detergent,Household,3,55,165,0,Debit/Credit Card
+TXN00036,2026-01-10,P004,Canned Sardines,Grocery,5,28,140,284,E-wallet
+TXN00090,2026-01-10,P010,Bread Loaf,Bakery,2,65,130,88,Cash
+TXN00248,2026-01-10,P002,Cooking Oil 1L,Grocery,1,95,95,70,Cash
+TXN00332,2026-01-10,P005,Laundry Detergent,Household,4,55,220,117,E-wallet
+TXN00334,2026-01-10,P002,Cooking Oil 1L,Grocery,1,95,95,59,E-wallet
+TXN00360,2026-01-10,P003,Instant Noodles,Grocery,1,15,15,464,Cash
+TXN00428,2026-01-10,P004,Canned Sardines,Grocery,1,28,28,221,Cash
+TXN00454,2026-01-10,P005,Laundry Detergent,Household,4,55,220,91,E-wallet
+TXN00577,2026-01-10,P007,Shampoo Sachet,Personal Care,1,8,8,497,Cash
+TXN00662,2026-01-10,P001,Rice 5kg,Grocery,2,285,570,0,Cash
+TXN00191,2026-01-11,P004,Canned Sardines,Grocery,2,28,56,246,Debit/Credit Card
+TXN00242,2026-01-11,P007,Shampoo Sachet,Personal Care,1,8,8,564,Cash
+TXN00419,2026-01-11,P011,Eggs Dozen,Grocery,1,110,110,0,Cash
+TXN00659,2026-01-11,P011,Eggs Dozen,Grocery,5,110,550,0,Debit/Credit Card
+TXN00793,2026-01-11,P003,Instant Noodles,Grocery,1,15,15,407,Cash
+TXN00818,2026-01-11,P008,Bottled Water,Beverages,2,20,40,246,Cash
+TXN00280,2026-01-12,P011,Eggs Dozen,Grocery,1,110,110,21,Cash
+TXN00448,2026-01-12,P002,Cooking Oil 1L,Grocery,1,95,95,34,E-wallet
+TXN00461,2026-01-12,P006,Bath Soap,Personal Care,2,32,64,159,Cash
+TXN00989,2026-01-12,P012,Coffee 10s,Beverages,3,85,255,0,E-wallet
+TXN00225,2026-01-13,P008,Bottled Water,Beverages,1,20,20,373,E-wallet
+TXN00307,2026-01-13,P003,Instant Noodles,Grocery,2,15,30,466,Cash
+TXN00867,2026-01-13,P001,Rice 5kg,Grocery,2,285,570,0,Cash
+TXN00893,2026-01-13,P004,Canned Sardines,Grocery,3,28,84,132,E-wallet
+TXN00001,2026-01-14,P003,Instant Noodles,Grocery,3,15,45,497,Cash
+TXN00249,2026-01-14,P007,Shampoo Sachet,Personal Care,5,8,40,559,Cash
+TXN00611,2026-01-14,P006,Bath Soap,Personal Care,2,32,64,121,Cash
+TXN00637,2026-01-14,P003,Instant Noodles,Grocery,4,15,60,428,E-wallet
+TXN00777,2026-01-14,P003,Instant Noodles,Grocery,3,15,45,412,E-wallet
+TXN00164,2026-01-15,P011,Eggs Dozen,Grocery,3,110,330,50,E-wallet
+TXN00194,2026-01-15,P010,Bread Loaf,Bakery,1,65,65,64,Cash
+TXN00371,2026-01-15,P001,Rice 5kg,Grocery,5,285,1425,0,Cash
+TXN00904,2026-01-15,P010,Bread Loaf,Bakery,1,65,65,0,E-wallet
+TXN00922,2026-01-15,P008,Bottled Water,Beverages,1,20,20,234,E-wallet
+TXN00014,2026-01-16,P011,Eggs Dozen,Grocery,3,110,330,86,E-wallet
+TXN00503,2026-01-16,P010,Bread Loaf,Bakery,5,65,325,4,E-wallet
+TXN00666,2026-01-16,P001,Rice 5kg,Grocery,3,285,855,0,Debit/Credit Card
+TXN00717,2026-01-16,P004,Canned Sardines,Grocery,3,28,84,162,Debit/Credit Card
+TXN00391,2026-01-17,P012,Coffee 10s,Beverages,1,85,85,71,Cash
+TXN00523,2026-01-17,P005,Laundry Detergent,Household,3,55,165,74,E-wallet
+TXN00929,2026-01-17,P006,Bath Soap,Personal Care,2,32,64,64,E-wallet
+TXN00157,2026-01-18,P006,Bath Soap,Personal Care,5,32,160,216,Cash
+TXN00383,2026-01-18,P009,Soft Drink 1.5L,Beverages,2,75,150,84,E-wallet
+TXN00543,2026-01-19,P006,Bath Soap,Personal Care,1,32,32,144,Cash
+TXN00565,2026-01-19,P006,Bath Soap,Personal Care,4,32,128,134,Cash
+TXN00020,2026-01-20,P004,Canned Sardines,Grocery,2,28,56,291,Cash
+TXN00114,2026-01-20,P001,Rice 5kg,Grocery,4,285,1140,51,Cash
+TXN00115,2026-01-20,P007,Shampoo Sachet,Personal Care,1,8,8,583,E-wallet
+TXN00410,2026-01-20,P002,Cooking Oil 1L,Grocery,4,95,380,49,E-wallet
+TXN00453,2026-01-20,P006,Bath Soap,Personal Care,1,32,32,161,Cash
+TXN00527,2026-01-20,P009,Soft Drink 1.5L,Beverages,1,75,75,59,Cash
+TXN00752,2026-01-20,P001,Rice 5kg,Grocery,2,285,570,0,Cash
+TXN00457,2026-01-21,P005,Laundry Detergent,Household,1,55,55,90,Cash
+TXN00643,2026-01-21,P001,Rice 5kg,Grocery,4,285,1140,0,E-wallet
+TXN00698,2026-01-21,P010,Bread Loaf,Bakery,4,65,260,0,Cash
+TXN00812,2026-01-21,P003,Instant Noodles,Grocery,1,15,15,403,Cash
+TXN00962,2026-01-21,P003,Instant Noodles,Grocery,1,15,15,374,Cash
+TXN00433,2026-01-22,P002,Cooking Oil 1L,Grocery,2,95,190,46,Cash
+TXN00701,2026-01-22,P011,Eggs Dozen,Grocery,3,110,330,0,Cash
+TXN00702,2026-01-22,P004,Canned Sardines,Grocery,2,28,56,169,Cash
+TXN00091,2026-01-23,P006,Bath Soap,Personal Care,2,32,64,228,Cash
+TXN00185,2026-01-23,P002,Cooking Oil 1L,Grocery,5,95,475,79,E-wallet
+TXN00533,2026-01-23,P009,Soft Drink 1.5L,Beverages,2,75,150,57,E-wallet
+TXN00601,2026-01-23,P001,Rice 5kg,Grocery,2,285,570,0,Cash
+TXN00607,2026-01-23,P010,Bread Loaf,Bakery,3,65,195,0,Debit/Credit Card
+TXN00617,2026-01-23,P012,Coffee 10s,Beverages,4,85,340,28,E-wallet
+TXN00968,2026-01-23,P006,Bath Soap,Personal Care,1,32,32,52,Cash
+TXN00311,2026-01-24,P008,Bottled Water,Beverages,4,20,80,351,E-wallet
+TXN00340,2026-01-24,P010,Bread Loaf,Bakery,4,65,260,28,E-wallet
+TXN00362,2026-01-24,P004,Canned Sardines,Grocery,1,28,28,225,Cash
+TXN00425,2026-01-24,P002,Cooking Oil 1L,Grocery,1,95,95,48,Debit/Credit Card
+TXN00816,2026-01-24,P006,Bath Soap,Personal Care,3,32,96,80,E-wallet
+TXN00943,2026-01-24,P005,Laundry Detergent,Household,1,55,55,8,Cash
+TXN00133,2026-01-25,P004,Canned Sardines,Grocery,3,28,84,259,Cash
+TXN00291,2026-01-25,P007,Shampoo Sachet,Personal Care,1,8,8,551,E-wallet
+TXN00320,2026-01-25,P010,Bread Loaf,Bakery,2,65,130,37,Cash
+TXN00390,2026-01-25,P008,Bottled Water,Beverages,1,20,20,335,Cash
+TXN00654,2026-01-25,P005,Laundry Detergent,Household,3,55,165,39,Cash
+TXN00845,2026-01-25,P004,Canned Sardines,Grocery,2,28,56,141,Cash
+TXN00863,2026-01-25,P004,Canned Sardines,Grocery,2,28,56,138,Cash
+TXN00983,2026-01-25,P009,Soft Drink 1.5L,Beverages,1,75,75,0,Cash
+TXN00197,2026-01-26,P004,Canned Sardines,Grocery,1,28,28,245,Cash
+TXN00465,2026-01-26,P003,Instant Noodles,Grocery,2,15,30,450,Cash
+TXN00926,2026-01-26,P003,Instant Noodles,Grocery,1,15,15,381,E-wallet
+TXN00098,2026-01-27,P009,Soft Drink 1.5L,Beverages,4,75,300,133,Cash
+TXN00282,2026-01-27,P006,Bath Soap,Personal Care,5,32,160,197,E-wallet
+TXN00441,2026-01-27,P001,Rice 5kg,Grocery,5,285,1425,0,E-wallet
+TXN00467,2026-01-27,P006,Bath Soap,Personal Care,2,32,64,156,E-wallet
+TXN00764,2026-01-27,P010,Bread Loaf,Bakery,2,65,130,0,E-wallet
+TXN00811,2026-01-27,P003,Instant Noodles,Grocery,1,15,15,404,Cash
+TXN00025,2026-01-28,P006,Bath Soap,Personal Care,3,32,96,246,E-wallet
+TXN00149,2026-01-28,P002,Cooking Oil 1L,Grocery,4,95,380,91,Cash
+TXN00661,2026-01-28,P006,Bath Soap,Personal Care,1,32,32,114,Cash
+TXN00874,2026-01-28,P010,Bread Loaf,Bakery,1,65,65,0,E-wallet
+TXN00951,2026-01-28,P002,Cooking Oil 1L,Grocery,2,95,190,0,E-wallet
+TXN00097,2026-01-29,P010,Bread Loaf,Bakery,2,65,130,86,E-wallet
+TXN00292,2026-01-29,P010,Bread Loaf,Bakery,2,65,130,40,E-wallet
+TXN00479,2026-01-29,P012,Coffee 10s,Beverages,2,85,170,54,Cash
+TXN00567,2026-01-29,P006,Bath Soap,Personal Care,3,32,96,131,Cash
+TXN00772,2026-01-29,P001,Rice 5kg,Grocery,2,285,570,0,Cash
+TXN00970,2026-01-29,P004,Canned Sardines,Grocery,4,28,112,124,Debit/Credit Card
+TXN00257,2026-01-30,P007,Shampoo Sachet,Personal Care,2,8,16,556,Cash
+TXN00388,2026-01-30,P007,Shampoo Sachet,Personal Care,2,8,16,532,Debit/Credit Card
+TXN00782,2026-01-30,P011,Eggs Dozen,Grocery,1,110,110,0,E-wallet
+TXN00979,2026-01-30,P006,Bath Soap,Personal Care,5,32,160,47,Cash
+TXN00420,2026-01-31,P012,Coffee 10s,Beverages,1,85,85,68,Cash
+TXN00559,2026-01-31,P012,Coffee 10s,Beverages,1,85,85,38,E-wallet
+TXN00674,2026-01-31,P008,Bottled Water,Beverages,2,20,40,279,E-wallet
+TXN00699,2026-01-31,P010,Bread Loaf,Bakery,4,65,260,0,Cash
+TXN00707,2026-01-31,P008,Bottled Water,Beverages,2,20,40,277,Debit/Credit Card
+TXN00969,2026-01-31,P004,Canned Sardines,Grocery,2,28,56,128,Cash
+TXN00315,2026-02-01,P011,Eggs Dozen,Grocery,2,110,220,5,Cash
+TXN00422,2026-02-01,P011,Eggs Dozen,Grocery,1,110,110,0,Cash
+TXN00608,2026-02-01,P003,Instant Noodles,Grocery,2,15,30,436,Cash
+TXN00083,2026-02-02,P010,Bread Loaf,Bakery,3,65,195,91,Cash
+TXN00275,2026-02-02,P002,Cooking Oil 1L,Grocery,1,95,95,66,Cash
+TXN00481,2026-02-02,P003,Instant Noodles,Grocery,2,15,30,446,Cash
+TXN00759,2026-02-02,P001,Rice 5kg,Grocery,1,285,285,0,Cash
+TXN00785,2026-02-02,P011,Eggs Dozen,Grocery,3,110,330,0,Debit/Credit Card
+TXN00855,2026-02-02,P007,Shampoo Sachet,Personal Care,5,8,40,441,Cash
+TXN00859,2026-02-02,P001,Rice 5kg,Grocery,1,285,285,0,Cash
+TXN00342,2026-02-03,P011,Eggs Dozen,Grocery,1,110,110,0,Cash
+TXN00367,2026-02-03,P006,Bath Soap,Personal Care,1,32,32,186,Cash
+TXN00413,2026-02-03,P007,Shampoo Sachet,Personal Care,2,8,16,528,Cash
+TXN00522,2026-02-03,P007,Shampoo Sachet,Personal Care,5,8,40,500,E-wallet
+TXN00864,2026-02-03,P008,Bottled Water,Beverages,4,20,80,236,Debit/Credit Card
+TXN00879,2026-02-03,P002,Cooking Oil 1L,Grocery,4,95,380,0,E-wallet
+TXN00135,2026-02-04,P001,Rice 5kg,Grocery,3,285,855,47,Cash
+TXN00178,2026-02-04,P012,Coffee 10s,Beverages,2,85,170,111,Cash
+TXN00184,2026-02-04,P005,Laundry Detergent,Household,2,55,110,140,Cash
+TXN00554,2026-02-04,P001,Rice 5kg,Grocery,1,285,285,0,Cash
+TXN00689,2026-02-04,P004,Canned Sardines,Grocery,2,28,56,172,Cash
+TXN00832,2026-02-04,P003,Instant Noodles,Grocery,2,15,30,399,Cash
+TXN00047,2026-02-05,P002,Cooking Oil 1L,Grocery,3,95,285,115,Debit/Credit Card
+TXN00238,2026-02-05,P011,Eggs Dozen,Grocery,3,110,330,28,E-wallet
+TXN00323,2026-02-05,P010,Bread Loaf,Bakery,1,65,65,35,E-wallet
+TXN00328,2026-02-05,P001,Rice 5kg,Grocery,3,285,855,0,E-wallet
+TXN00386,2026-02-05,P007,Shampoo Sachet,Personal Care,1,8,8,534,Cash
+TXN00531,2026-02-05,P004,Canned Sardines,Grocery,1,28,28,199,E-wallet
+TXN00620,2026-02-05,P011,Eggs Dozen,Grocery,4,110,440,0,Cash
+TXN00668,2026-02-05,P012,Coffee 10s,Beverages,3,85,255,13,Cash
+TXN00042,2026-02-06,P005,Laundry Detergent,Household,1,55,55,166,E-wallet
+TXN00195,2026-02-06,P007,Shampoo Sachet,Personal Care,5,8,40,568,Debit/Credit Card
+TXN00505,2026-02-06,P008,Bottled Water,Beverages,3,20,60,298,E-wallet
+TXN00574,2026-02-06,P010,Bread Loaf,Bakery,4,65,260,0,Debit/Credit Card
+TXN00635,2026-02-06,P011,Eggs Dozen,Grocery,2,110,220,0,Debit/Credit Card
+TXN00664,2026-02-06,P010,Bread Loaf,Bakery,3,65,195,0,Cash
+TXN00046,2026-02-07,P004,Canned Sardines,Grocery,1,28,28,283,Cash
+TXN00048,2026-02-07,P002,Cooking Oil 1L,Grocery,2,95,190,113,Cash
+TXN00085,2026-02-07,P010,Bread Loaf,Bakery,1,65,65,90,Debit/Credit Card
+TXN00210,2026-02-07,P010,Bread Loaf,Bakery,1,65,65,63,Cash
+TXN00594,2026-02-07,P010,Bread Loaf,Bakery,3,65,195,0,Debit/Credit Card
+TXN00628,2026-02-07,P012,Coffee 10s,Beverages,3,85,255,23,Cash
+TXN00656,2026-02-07,P007,Shampoo Sachet,Personal Care,4,8,32,482,E-wallet
+TXN00703,2026-02-07,P004,Canned Sardines,Grocery,2,28,56,167,E-wallet
+TXN00813,2026-02-07,P006,Bath Soap,Personal Care,1,32,32,83,Cash
+TXN00940,2026-02-07,P011,Eggs Dozen,Grocery,1,110,110,0,Cash
+TXN00319,2026-02-08,P004,Canned Sardines,Grocery,1,28,28,230,Cash
+TXN00382,2026-02-08,P007,Shampoo Sachet,Personal Care,3,8,24,535,E-wallet
+TXN00401,2026-02-08,P009,Soft Drink 1.5L,Beverages,1,75,75,78,E-wallet
+TXN00199,2026-02-09,P004,Canned Sardines,Grocery,4,28,112,241,Cash
+TXN00430,2026-02-09,P008,Bottled Water,Beverages,3,20,60,315,E-wallet
+TXN00891,2026-02-09,P012,Coffee 10s,Beverages,1,85,85,0,Cash
+TXN00271,2026-02-10,P010,Bread Loaf,Bakery,5,65,325,46,Cash
+TXN00603,2026-02-10,P012,Coffee 10s,Beverages,2,85,170,32,Debit/Credit Card
+TXN00781,2026-02-10,P012,Coffee 10s,Beverages,3,85,255,0,Cash
+TXN00019,2026-02-11,P012,Coffee 10s,Beverages,1,85,85,136,E-wallet
+TXN00256,2026-02-11,P008,Bottled Water,Beverages,1,20,20,363,Cash
+TXN00260,2026-02-11,P006,Bath Soap,Personal Care,5,32,160,207,Debit/Credit Card
+TXN00285,2026-02-11,P011,Eggs Dozen,Grocery,2,110,220,19,Cash
+TXN00558,2026-02-11,P010,Bread Loaf,Bakery,1,65,65,0,E-wallet
+TXN00633,2026-02-11,P003,Instant Noodles,Grocery,1,15,15,432,Cash
+TXN00965,2026-02-11,P004,Canned Sardines,Grocery,2,28,56,130,Cash
+TXN00882,2026-02-12,P009,Soft Drink 1.5L,Beverages,1,75,75,0,Cash
+TXN00961,2026-02-12,P006,Bath Soap,Personal Care,2,32,64,53,Cash
+TXN00096,2026-02-13,P005,Laundry Detergent,Household,3,55,165,162,Cash
+TXN00111,2026-02-13,P010,Bread Loaf,Bakery,1,65,65,82,Cash
+TXN00490,2026-02-13,P008,Bottled Water,Beverages,3,20,60,305,Cash
+TXN00511,2026-02-13,P001,Rice 5kg,Grocery,4,285,1140,0,Cash
+TXN00584,2026-02-13,P008,Bottled Water,Beverages,3,20,60,295,E-wallet
+TXN00748,2026-02-13,P008,Bottled Water,Beverages,4,20,80,265,E-wallet
+TXN00766,2026-02-13,P006,Bath Soap,Personal Care,4,32,128,91,Cash
+TXN00899,2026-02-13,P005,Laundry Detergent,Household,1,55,55,10,E-wallet
+TXN00022,2026-02-14,P001,Rice 5kg,Grocery,2,285,570,75,Debit/Credit Card
+TXN00477,2026-02-14,P005,Laundry Detergent,Household,2,55,110,88,Cash
+TXN00587,2026-02-14,P006,Bath Soap,Personal Care,2,32,64,123,Cash
+TXN00807,2026-02-14,P006,Bath Soap,Personal Care,1,32,32,84,E-wallet
+TXN00978,2026-02-14,P004,Canned Sardines,Grocery,1,28,28,123,Cash
+TXN00109,2026-02-15,P009,Soft Drink 1.5L,Beverages,3,75,225,128,Cash
+TXN00520,2026-02-15,P006,Bath Soap,Personal Care,5,32,160,149,Cash
+TXN00639,2026-02-15,P011,Eggs Dozen,Grocery,3,110,330,0,Cash
+TXN00840,2026-02-15,P002,Cooking Oil 1L,Grocery,3,95,285,0,Cash
+TXN00865,2026-02-15,P012,Coffee 10s,Beverages,1,85,85,0,Cash
+TXN00116,2026-02-16,P005,Laundry Detergent,Household,2,55,110,154,Cash
+TXN00221,2026-02-16,P005,Laundry Detergent,Household,4,55,220,136,Cash
+TXN00439,2026-02-16,P002,Cooking Oil 1L,Grocery,3,95,285,37,Cash
+TXN00566,2026-02-16,P004,Canned Sardines,Grocery,3,28,84,192,E-wallet
+TXN00616,2026-02-16,P008,Bottled Water,Beverages,4,20,80,285,E-wallet
+TXN00626,2026-02-16,P004,Canned Sardines,Grocery,1,28,28,184,Cash
+TXN00791,2026-02-16,P008,Bottled Water,Beverages,2,20,40,257,Cash
+TXN00808,2026-02-16,P010,Bread Loaf,Bakery,1,65,65,0,E-wallet
+TXN00124,2026-02-17,P006,Bath Soap,Personal Care,1,32,32,227,E-wallet
+TXN00208,2026-02-17,P009,Soft Drink 1.5L,Beverages,2,75,150,104,E-wallet
+TXN00471,2026-02-17,P004,Canned Sardines,Grocery,5,28,140,209,E-wallet
+TXN00488,2026-02-17,P005,Laundry Detergent,Household,2,55,110,84,Cash
+TXN00586,2026-02-17,P007,Shampoo Sachet,Personal Care,4,8,32,493,Cash
+TXN00884,2026-02-17,P012,Coffee 10s,Beverages,2,85,170,0,Cash
+TXN00941,2026-02-17,P007,Shampoo Sachet,Personal Care,3,8,24,421,Cash
+TXN00006,2026-02-18,P009,Soft Drink 1.5L,Beverages,2,75,150,148,Cash
+TXN00113,2026-02-18,P012,Coffee 10s,Beverages,1,85,85,116,E-wallet
+TXN00496,2026-02-18,P010,Bread Loaf,Bakery,4,65,260,9,E-wallet
+TXN00512,2026-02-18,P002,Cooking Oil 1L,Grocery,1,95,95,29,E-wallet
+TXN00526,2026-02-18,P005,Laundry Detergent,Household,1,55,55,72,E-wallet
+TXN00831,2026-02-18,P003,Instant Noodles,Grocery,1,15,15,401,Cash
+TXN00833,2026-02-18,P010,Bread Loaf,Bakery,2,65,130,0,Cash
+TXN00041,2026-02-19,P007,Shampoo Sachet,Personal Care,1,8,8,591,Debit/Credit Card
+TXN00089,2026-02-19,P004,Canned Sardines,Grocery,5,28,140,274,E-wallet
+TXN00355,2026-02-19,P002,Cooking Oil 1L,Grocery,2,95,190,55,Cash
+TXN00365,2026-02-19,P001,Rice 5kg,Grocery,2,285,570,0,Cash
+TXN00539,2026-02-19,P002,Cooking Oil 1L,Grocery,1,95,95,28,Cash
+TXN00678,2026-02-19,P001,Rice 5kg,Grocery,1,285,285,0,Cash
+TXN00799,2026-02-19,P004,Canned Sardines,Grocery,1,28,28,148,Debit/Credit Card
+TXN00824,2026-02-19,P001,Rice 5kg,Grocery,2,285,570,0,Cash
+TXN00144,2026-02-20,P001,Rice 5kg,Grocery,1,285,285,41,Cash
+TXN00500,2026-02-20,P009,Soft Drink 1.5L,Beverages,2,75,150,65,Cash
+TXN00719,2026-02-20,P003,Instant Noodles,Grocery,3,15,45,418,E-wallet
+TXN00737,2026-02-20,P002,Cooking Oil 1L,Grocery,1,95,95,8,E-wallet
+TXN00846,2026-02-20,P012,Coffee 10s,Beverages,1,85,85,0,Cash
+TXN00955,2026-02-20,P005,Laundry Detergent,Household,2,55,110,6,Cash
+TXN00027,2026-02-21,P005,Laundry Detergent,Household,2,55,110,175,Debit/Credit Card
+TXN00037,2026-02-21,P011,Eggs Dozen,Grocery,1,110,110,74,Cash
+TXN00231,2026-02-21,P004,Canned Sardines,Grocery,2,28,56,236,Cash
+TXN00495,2026-02-21,P001,Rice 5kg,Grocery,3,285,855,0,E-wallet
+TXN00528,2026-02-21,P012,Coffee 10s,Beverages,1,85,85,43,E-wallet
+TXN00749,2026-02-21,P004,Canned Sardines,Grocery,2,28,56,155,Cash
+TXN00924,2026-02-21,P002,Cooking Oil 1L,Grocery,4,95,380,0,Cash
+TXN00262,2026-02-22,P006,Bath Soap,Personal Care,5,32,160,202,Cash
+TXN00287,2026-02-22,P003,Instant Noodles,Grocery,5,15,75,469,Cash
+TXN00326,2026-02-22,P002,Cooking Oil 1L,Grocery,3,95,285,60,E-wallet
+TXN00407,2026-02-22,P005,Laundry Detergent,Household,3,55,165,100,Cash
+TXN00451,2026-02-22,P005,Laundry Detergent,Household,3,55,165,95,E-wallet
+TXN00976,2026-02-22,P002,Cooking Oil 1L,Grocery,2,95,190,0,Cash
+TXN00369,2026-02-23,P006,Bath Soap,Personal Care,3,32,96,183,Cash
+TXN00431,2026-02-23,P001,Rice 5kg,Grocery,1,285,285,0,E-wallet
+TXN00506,2026-02-23,P003,Instant Noodles,Grocery,2,15,30,444,Cash
+TXN00541,2026-02-23,P010,Bread Loaf,Bakery,1,65,65,0,E-wallet
+TXN00765,2026-02-23,P006,Bath Soap,Personal Care,4,32,128,95,Cash
+TXN00598,2026-02-24,P005,Laundry Detergent,Household,3,55,165,56,E-wallet
+TXN00647,2026-02-24,P011,Eggs Dozen,Grocery,1,110,110,0,Cash
+TXN00878,2026-02-24,P007,Shampoo Sachet,Personal Care,1,8,8,440,Cash
+TXN00919,2026-02-24,P007,Shampoo Sachet,Personal Care,5,8,40,432,E-wallet
+TXN00685,2026-02-25,P009,Soft Drink 1.5L,Beverages,2,75,150,30,Cash
+TXN00726,2026-02-25,P009,Soft Drink 1.5L,Beverages,1,75,75,25,Cash
+TXN00927,2026-02-25,P001,Rice 5kg,Grocery,1,285,285,0,Cash
+TXN00058,2026-02-26,P011,Eggs Dozen,Grocery,4,110,440,69,Cash
+TXN00396,2026-02-26,P008,Bottled Water,Beverages,2,20,40,331,E-wallet
+TXN00043,2026-02-27,P012,Coffee 10s,Beverages,1,85,85,130,E-wallet
+TXN00136,2026-02-27,P003,Instant Noodles,Grocery,2,15,30,484,Cash
+TXN00167,2026-02-27,P008,Bottled Water,Beverages,2,20,40,382,E-wallet
+TXN00378,2026-02-27,P008,Bottled Water,Beverages,5,20,100,336,E-wallet
+TXN00590,2026-02-27,P010,Bread Loaf,Bakery,1,65,65,0,E-wallet
+TXN00672,2026-02-27,P010,Bread Loaf,Bakery,2,65,130,0,E-wallet
+TXN00936,2026-02-27,P001,Rice 5kg,Grocery,2,285,570,0,E-wallet
+TXN00176,2026-02-28,P010,Bread Loaf,Bakery,3,65,195,76,E-wallet
+TXN00200,2026-02-28,P002,Cooking Oil 1L,Grocery,2,95,190,76,Cash
+TXN00308,2026-02-28,P008,Bottled Water,Beverages,1,20,20,355,E-wallet
+TXN00352,2026-02-28,P009,Soft Drink 1.5L,Beverages,1,75,75,92,Cash
+TXN00031,2026-03-01,P005,Laundry Detergent,Household,4,55,220,170,Cash
+TXN00198,2026-03-01,P003,Instant Noodles,Grocery,1,15,15,480,Cash
+TXN00411,2026-03-01,P012,Coffee 10s,Beverages,2,85,170,69,E-wallet
+TXN00585,2026-03-01,P004,Canned Sardines,Grocery,2,28,56,190,Cash
+TXN00653,2026-03-01,P005,Laundry Detergent,Household,4,55,220,42,Cash
+TXN00843,2026-03-01,P003,Instant Noodles,Grocery,3,15,45,394,Cash
+TXN00986,2026-03-01,P011,Eggs Dozen,Grocery,1,110,110,0,E-wallet
+TXN00183,2026-03-02,P001,Rice 5kg,Grocery,1,285,285,31,Cash
+TXN00253,2026-03-02,P010,Bread Loaf,Bakery,2,65,130,55,Cash
+TXN00278,2026-03-02,P004,Canned Sardines,Grocery,1,28,28,231,Cash
+TXN00524,2026-03-02,P006,Bath Soap,Personal Care,1,32,32,148,E-wallet
+TXN00618,2026-03-02,P010,Bread Loaf,Bakery,2,65,130,0,E-wallet
+TXN00648,2026-03-02,P009,Soft Drink 1.5L,Beverages,2,75,150,40,Debit/Credit Card
+TXN00087,2026-03-03,P002,Cooking Oil 1L,Grocery,5,95,475,103,Cash
+TXN00279,2026-03-03,P011,Eggs Dozen,Grocery,1,110,110,22,Cash
+TXN00361,2026-03-03,P001,Rice 5kg,Grocery,2,285,570,0,Cash
+TXN00609,2026-03-03,P002,Cooking Oil 1L,Grocery,1,95,95,19,Cash
+TXN00787,2026-03-03,P009,Soft Drink 1.5L,Beverages,1,75,75,13,Cash
+TXN00797,2026-03-03,P003,Instant Noodles,Grocery,1,15,15,406,Cash
+TXN00996,2026-03-03,P001,Rice 5kg,Grocery,3,285,855,0,E-wallet
+TXN00015,2026-03-04,P001,Rice 5kg,Grocery,3,285,855,77,Cash
+TXN00072,2026-03-04,P006,Bath Soap,Personal Care,3,32,96,235,Cash
+TXN00169,2026-03-04,P001,Rice 5kg,Grocery,2,285,570,32,Cash
+TXN00354,2026-03-04,P007,Shampoo Sachet,Personal Care,5,8,40,544,Cash
+TXN00632,2026-03-04,P004,Canned Sardines,Grocery,2,28,56,181,Cash
+TXN00675,2026-03-04,P001,Rice 5kg,Grocery,1,285,285,0,E-wallet
+TXN00880,2026-03-04,P009,Soft Drink 1.5L,Beverages,4,75,300,0,Cash
+TXN00372,2026-03-05,P005,Laundry Detergent,Household,1,55,55,110,Cash
+TXN00403,2026-03-05,P005,Laundry Detergent,Household,2,55,110,107,Cash
+TXN00499,2026-03-05,P011,Eggs Dozen,Grocery,4,110,440,0,Cash
+TXN00513,2026-03-05,P011,Eggs Dozen,Grocery,2,110,220,0,Cash
+TXN00980,2026-03-05,P004,Canned Sardines,Grocery,1,28,28,122,E-wallet
+TXN00034,2026-03-06,P011,Eggs Dozen,Grocery,2,110,220,75,Cash
+TXN00925,2026-03-06,P011,Eggs Dozen,Grocery,1,110,110,0,Cash
+TXN00991,2026-03-06,P005,Laundry Detergent,Household,3,55,165,0,E-wallet
+TXN00236,2026-03-07,P011,Eggs Dozen,Grocery,1,110,110,31,Debit/Credit Card
+TXN00660,2026-03-07,P004,Canned Sardines,Grocery,4,28,112,175,Cash
+TXN00774,2026-03-07,P008,Bottled Water,Beverages,1,20,20,263,Cash
+TXN00822,2026-03-07,P012,Coffee 10s,Beverages,1,85,85,0,Cash
+TXN00910,2026-03-07,P010,Bread Loaf,Bakery,2,65,130,0,Debit/Credit Card
+TXN00196,2026-03-08,P011,Eggs Dozen,Grocery,3,110,330,37,Cash
+TXN00263,2026-03-08,P007,Shampoo Sachet,Personal Care,2,8,16,554,Cash
+TXN00468,2026-03-08,P006,Bath Soap,Personal Care,2,32,64,154,Cash
+TXN00267,2026-03-09,P005,Laundry Detergent,Household,3,55,165,131,E-wallet
+TXN00475,2026-03-09,P008,Bottled Water,Beverages,1,20,20,308,Cash
+TXN00619,2026-03-09,P005,Laundry Detergent,Household,2,55,110,54,E-wallet
+TXN00641,2026-03-09,P012,Coffee 10s,Beverages,2,85,170,21,E-wallet
+TXN00700,2026-03-09,P006,Bath Soap,Personal Care,2,32,64,105,Debit/Credit Card
+TXN00024,2026-03-10,P011,Eggs Dozen,Grocery,2,110,220,82,Cash
+TXN00180,2026-03-10,P011,Eggs Dozen,Grocery,4,110,440,44,E-wallet
+TXN00227,2026-03-10,P012,Coffee 10s,Beverages,3,85,255,101,E-wallet
+TXN00251,2026-03-10,P007,Shampoo Sachet,Personal Care,1,8,8,558,Cash
+TXN00261,2026-03-10,P002,Cooking Oil 1L,Grocery,1,95,95,68,Cash
+TXN00264,2026-03-10,P001,Rice 5kg,Grocery,4,285,1140,10,Cash
+TXN00507,2026-03-10,P004,Canned Sardines,Grocery,5,28,140,204,E-wallet
+TXN00794,2026-03-10,P012,Coffee 10s,Beverages,3,85,255,0,Cash
+TXN00823,2026-03-10,P008,Bottled Water,Beverages,2,20,40,244,E-wallet
+TXN00349,2026-03-11,P003,Instant Noodles,Grocery,1,15,15,465,Cash
+TXN00364,2026-03-11,P011,Eggs Dozen,Grocery,3,110,330,0,Cash
+TXN00426,2026-03-11,P008,Bottled Water,Beverages,2,20,40,318,Debit/Credit Card
+TXN00866,2026-03-11,P010,Bread Loaf,Bakery,4,65,260,0,E-wallet
+TXN00112,2026-03-12,P001,Rice 5kg,Grocery,1,285,285,55,Cash
+TXN00154,2026-03-12,P001,Rice 5kg,Grocery,1,285,285,38,Cash
+TXN00353,2026-03-12,P006,Bath Soap,Personal Care,4,32,128,187,E-wallet
+TXN00357,2026-03-12,P007,Shampoo Sachet,Personal Care,4,8,32,540,E-wallet
+TXN00423,2026-03-12,P003,Instant Noodles,Grocery,1,15,15,455,Cash
+TXN00673,2026-03-12,P006,Bath Soap,Personal Care,2,32,64,112,Cash
+TXN00857,2026-03-12,P011,Eggs Dozen,Grocery,1,110,110,0,E-wallet
+TXN00877,2026-03-12,P003,Instant Noodles,Grocery,1,15,15,391,Cash
+TXN00918,2026-03-12,P002,Cooking Oil 1L,Grocery,3,95,285,0,E-wallet
+TXN00171,2026-03-13,P010,Bread Loaf,Bakery,2,65,130,79,Cash
+TXN00923,2026-03-13,P006,Bath Soap,Personal Care,4,32,128,66,Cash
+TXN00069,2026-03-14,P010,Bread Loaf,Bakery,2,65,130,94,Debit/Credit Card
+TXN00314,2026-03-14,P012,Coffee 10s,Beverages,2,85,170,79,Cash
+TXN00445,2026-03-14,P007,Shampoo Sachet,Personal Care,2,8,16,523,Debit/Credit Card
+TXN00470,2026-03-14,P008,Bottled Water,Beverages,2,20,40,309,Cash
+TXN00743,2026-03-14,P011,Eggs Dozen,Grocery,4,110,440,0,E-wallet
+TXN00770,2026-03-14,P007,Shampoo Sachet,Personal Care,5,8,40,455,Cash
+TXN00973,2026-03-14,P008,Bottled Water,Beverages,5,20,100,225,E-wallet
+TXN00179,2026-03-15,P006,Bath Soap,Personal Care,2,32,64,214,Cash
+TXN00705,2026-03-15,P006,Bath Soap,Personal Care,2,32,64,103,Cash
+TXN00868,2026-03-15,P011,Eggs Dozen,Grocery,2,110,220,0,E-wallet
+TXN00881,2026-03-15,P011,Eggs Dozen,Grocery,3,110,330,0,Cash
+TXN00928,2026-03-15,P002,Cooking Oil 1L,Grocery,5,95,475,0,Cash
+TXN00165,2026-03-16,P004,Canned Sardines,Grocery,1,28,28,252,Cash
+TXN00450,2026-03-16,P005,Laundry Detergent,Household,2,55,110,98,E-wallet
+TXN00510,2026-03-16,P010,Bread Loaf,Bakery,2,65,130,2,E-wallet
+TXN00767,2026-03-16,P007,Shampoo Sachet,Personal Care,1,8,8,460,E-wallet
+TXN00153,2026-03-17,P005,Laundry Detergent,Household,1,55,55,147,Cash
+TXN00621,2026-03-17,P005,Laundry Detergent,Household,3,55,165,51,E-wallet
+TXN00624,2026-03-17,P001,Rice 5kg,Grocery,2,285,570,0,Cash
+TXN00814,2026-03-17,P002,Cooking Oil 1L,Grocery,1,95,95,5,Cash
+TXN00834,2026-03-17,P009,Soft Drink 1.5L,Beverages,3,75,225,6,Debit/Credit Card
+TXN00132,2026-03-18,P004,Canned Sardines,Grocery,1,28,28,262,E-wallet
+TXN00290,2026-03-18,P012,Coffee 10s,Beverages,1,85,85,84,E-wallet
+TXN00405,2026-03-18,P005,Laundry Detergent,Household,4,55,220,103,Cash
+TXN00476,2026-03-18,P001,Rice 5kg,Grocery,2,285,570,0,Cash
+TXN00483,2026-03-18,P009,Soft Drink 1.5L,Beverages,1,75,75,69,Cash
+TXN00497,2026-03-18,P012,Coffee 10s,Beverages,4,85,340,48,Cash
+TXN00504,2026-03-18,P011,Eggs Dozen,Grocery,1,110,110,0,E-wallet
+TXN00671,2026-03-18,P011,Eggs Dozen,Grocery,3,110,330,0,Debit/Credit Card
+TXN00942,2026-03-18,P009,Soft Drink 1.5L,Beverages,2,75,150,0,Cash
+TXN00030,2026-03-19,P005,Laundry Detergent,Household,1,55,55,174,Cash
+TXN00120,2026-03-19,P001,Rice 5kg,Grocery,1,285,285,50,E-wallet
+TXN00552,2026-03-19,P004,Canned Sardines,Grocery,2,28,56,197,Cash
+TXN00591,2026-03-19,P010,Bread Loaf,Bakery,2,65,130,0,Cash
+TXN00649,2026-03-19,P009,Soft Drink 1.5L,Beverages,5,75,375,35,E-wallet
+TXN00203,2026-03-20,P004,Canned Sardines,Grocery,1,28,28,239,Cash
+TXN00306,2026-03-20,P011,Eggs Dozen,Grocery,3,110,330,12,Cash
+TXN00959,2026-03-20,P008,Bottled Water,Beverages,4,20,80,230,Cash
+TXN00056,2026-03-21,P008,Bottled Water,Beverages,1,20,20,397,E-wallet
+TXN00442,2026-03-21,P004,Canned Sardines,Grocery,1,28,28,214,E-wallet
+TXN00492,2026-03-21,P001,Rice 5kg,Grocery,2,285,570,0,Cash
+TXN00572,2026-03-21,P005,Laundry Detergent,Household,2,55,110,69,E-wallet
+TXN00622,2026-03-21,P012,Coffee 10s,Beverages,2,85,170,26,E-wallet
+TXN00887,2026-03-21,P009,Soft Drink 1.5L,Beverages,2,75,150,0,E-wallet
+TXN00051,2026-03-22,P002,Cooking Oil 1L,Grocery,1,95,95,112,E-wallet
+TXN00086,2026-03-22,P003,Instant Noodles,Grocery,1,15,15,490,Cash
+TXN00152,2026-03-22,P005,Laundry Detergent,Household,2,55,110,148,Cash
+TXN00331,2026-03-22,P004,Canned Sardines,Grocery,4,28,112,226,E-wallet
+TXN00645,2026-03-22,P006,Bath Soap,Personal Care,1,32,32,115,Cash
+TXN00738,2026-03-22,P006,Bath Soap,Personal Care,1,32,32,100,E-wallet
+TXN00895,2026-03-22,P005,Laundry Detergent,Household,1,55,55,11,Cash
+TXN00948,2026-03-22,P007,Shampoo Sachet,Personal Care,3,8,24,415,Cash
+TXN00099,2026-03-23,P002,Cooking Oil 1L,Grocery,1,95,95,100,Cash
+TXN00289,2026-03-23,P012,Coffee 10s,Beverages,2,85,170,85,Cash
+TXN00473,2026-03-23,P007,Shampoo Sachet,Personal Care,4,8,32,509,Cash
+TXN00768,2026-03-23,P012,Coffee 10s,Beverages,3,85,255,0,E-wallet
+TXN00147,2026-03-24,P005,Laundry Detergent,Household,2,55,110,150,Cash
+TXN00288,2026-03-24,P010,Bread Loaf,Bakery,4,65,260,42,Cash
+TXN00795,2026-03-24,P005,Laundry Detergent,Household,2,55,110,24,Cash
+TXN00801,2026-03-24,P006,Bath Soap,Personal Care,3,32,96,88,E-wallet
+TXN00327,2026-03-25,P001,Rice 5kg,Grocery,5,285,1425,0,E-wallet
+TXN00385,2026-03-25,P009,Soft Drink 1.5L,Beverages,1,75,75,83,Cash
+TXN00534,2026-03-25,P009,Soft Drink 1.5L,Beverages,1,75,75,56,Cash
+TXN00680,2026-03-25,P007,Shampoo Sachet,Personal Care,3,8,24,479,Cash
+TXN00032,2026-03-26,P011,Eggs Dozen,Grocery,1,110,110,77,E-wallet
+TXN00055,2026-03-26,P002,Cooking Oil 1L,Grocery,1,95,95,111,Cash
+TXN00078,2026-03-26,P004,Canned Sardines,Grocery,1,28,28,281,E-wallet
+TXN00084,2026-03-26,P001,Rice 5kg,Grocery,3,285,855,62,E-wallet
+TXN00939,2026-03-26,P010,Bread Loaf,Bakery,1,65,65,0,Cash
+TXN00142,2026-03-27,P006,Bath Soap,Personal Care,2,32,64,225,Cash
+TXN00168,2026-03-27,P005,Laundry Detergent,Household,3,55,165,142,Cash
+TXN00395,2026-03-27,P008,Bottled Water,Beverages,2,20,40,333,Cash
+TXN00897,2026-03-27,P009,Soft Drink 1.5L,Beverages,1,75,75,0,E-wallet
+TXN00950,2026-03-27,P010,Bread Loaf,Bakery,2,65,130,0,E-wallet
+TXN00107,2026-03-28,P005,Laundry Detergent,Household,1,55,55,156,Cash
+TXN00325,2026-03-28,P010,Bread Loaf,Bakery,3,65,195,32,Cash
+TXN00399,2026-03-28,P007,Shampoo Sachet,Personal Care,2,8,16,530,Cash
+TXN00578,2026-03-28,P006,Bath Soap,Personal Care,1,32,32,125,Debit/Credit Card
+TXN00933,2026-03-28,P006,Bath Soap,Personal Care,3,32,96,57,Cash
+TXN00358,2026-03-29,P012,Coffee 10s,Beverages,1,85,85,75,E-wallet
+TXN00530,2026-03-29,P011,Eggs Dozen,Grocery,1,110,110,0,E-wallet
+TXN00604,2026-03-29,P002,Cooking Oil 1L,Grocery,1,95,95,20,Cash
+TXN00669,2026-03-29,P011,Eggs Dozen,Grocery,1,110,110,0,Debit/Credit Card
+TXN00775,2026-03-29,P008,Bottled Water,Beverages,2,20,40,261,Cash
+TXN00920,2026-03-29,P006,Bath Soap,Personal Care,3,32,96,70,Cash
+TXN00971,2026-03-29,P002,Cooking Oil 1L,Grocery,2,95,190,0,E-wallet
+TXN00977,2026-03-29,P009,Soft Drink 1.5L,Beverages,1,75,75,0,Cash
+TXN00063,2026-03-30,P012,Coffee 10s,Beverages,1,85,85,129,E-wallet
+TXN00189,2026-03-30,P010,Bread Loaf,Bakery,2,65,130,67,Cash
+TXN00226,2026-03-30,P012,Coffee 10s,Beverages,2,85,170,104,E-wallet
+TXN00310,2026-03-30,P001,Rice 5kg,Grocery,3,285,855,2,Debit/Credit Card
+TXN00798,2026-03-30,P008,Bottled Water,Beverages,2,20,40,250,Cash
+TXN00872,2026-03-30,P005,Laundry Detergent,Household,3,55,165,12,Debit/Credit Card
+TXN00913,2026-03-30,P001,Rice 5kg,Grocery,1,285,285,0,Cash
+TXN00967,2026-03-30,P005,Laundry Detergent,Household,2,55,110,4,E-wallet
+TXN00059,2026-03-31,P009,Soft Drink 1.5L,Beverages,4,75,300,140,E-wallet
+TXN00174,2026-04-01,P002,Cooking Oil 1L,Grocery,2,95,190,86,E-wallet
+TXN00204,2026-04-01,P006,Bath Soap,Personal Care,1,32,32,213,Cash
+TXN00716,2026-04-01,P002,Cooking Oil 1L,Grocery,2,95,190,9,Cash
+TXN00734,2026-04-01,P007,Shampoo Sachet,Personal Care,2,8,16,462,Cash
+TXN00896,2026-04-01,P001,Rice 5kg,Grocery,1,285,285,0,Debit/Credit Card
+TXN00901,2026-04-01,P012,Coffee 10s,Beverages,1,85,85,0,E-wallet
+TXN00023,2026-04-02,P004,Canned Sardines,Grocery,2,28,56,289,E-wallet
+TXN00065,2026-04-02,P010,Bread Loaf,Bakery,3,65,195,96,Cash
+TXN00220,2026-04-02,P006,Bath Soap,Personal Care,1,32,32,212,Cash
+TXN00694,2026-04-02,P003,Instant Noodles,Grocery,2,15,30,422,Cash
+TXN00789,2026-04-02,P003,Instant Noodles,Grocery,2,15,30,409,Cash
+TXN00809,2026-04-02,P010,Bread Loaf,Bakery,1,65,65,0,Cash
+TXN00380,2026-04-03,P009,Soft Drink 1.5L,Beverages,2,75,150,86,Cash
+TXN00560,2026-04-03,P003,Instant Noodles,Grocery,2,15,30,439,Cash
+TXN00629,2026-04-03,P008,Bottled Water,Beverages,2,20,40,283,Cash
+TXN00013,2026-04-04,P011,Eggs Dozen,Grocery,1,110,110,89,E-wallet
+TXN00033,2026-04-04,P012,Coffee 10s,Beverages,1,85,85,131,E-wallet
+TXN00201,2026-04-04,P004,Canned Sardines,Grocery,1,28,28,240,E-wallet
+TXN00254,2026-04-04,P003,Instant Noodles,Grocery,2,15,30,474,Cash
+TXN00404,2026-04-04,P006,Bath Soap,Personal Care,2,32,64,176,Cash
+TXN00644,2026-04-04,P002,Cooking Oil 1L,Grocery,2,95,190,17,Cash
+TXN00658,2026-04-04,P004,Canned Sardines,Grocery,2,28,56,179,Cash
+TXN00946,2026-04-04,P012,Coffee 10s,Beverages,2,85,170,0,E-wallet
+TXN00963,2026-04-04,P009,Soft Drink 1.5L,Beverages,5,75,375,0,Cash
+TXN00130,2026-04-05,P007,Shampoo Sachet,Personal Care,2,8,16,580,Cash
+TXN00181,2026-04-05,P010,Bread Loaf,Bakery,5,65,325,71,Cash
+TXN00309,2026-04-05,P005,Laundry Detergent,Household,1,55,55,123,Cash
+TXN00697,2026-04-05,P007,Shampoo Sachet,Personal Care,3,8,24,472,E-wallet
+TXN00735,2026-04-05,P009,Soft Drink 1.5L,Beverages,1,75,75,20,Cash
+TXN00744,2026-04-05,P008,Bottled Water,Beverages,1,20,20,269,E-wallet
+TXN00148,2026-04-06,P006,Bath Soap,Personal Care,2,32,64,221,Cash
+TXN00270,2026-04-06,P005,Laundry Detergent,Household,3,55,165,128,Cash
+TXN00347,2026-04-06,P005,Laundry Detergent,Household,2,55,110,111,Cash
+TXN00463,2026-04-06,P006,Bath Soap,Personal Care,1,32,32,158,Cash
+TXN00329,2026-04-07,P008,Bottled Water,Beverages,2,20,40,348,E-wallet
+TXN00379,2026-04-07,P012,Coffee 10s,Beverages,1,85,85,74,Cash
+TXN00773,2026-04-07,P004,Canned Sardines,Grocery,1,28,28,149,E-wallet
+TXN00779,2026-04-07,P011,Eggs Dozen,Grocery,1,110,110,0,Cash
+TXN00902,2026-04-07,P010,Bread Loaf,Bakery,4,65,260,0,Cash
+TXN00156,2026-04-08,P007,Shampoo Sachet,Personal Care,4,8,32,576,E-wallet
+TXN00537,2026-04-08,P006,Bath Soap,Personal Care,1,32,32,147,E-wallet
+TXN00686,2026-04-08,P001,Rice 5kg,Grocery,1,285,285,0,Debit/Credit Card
+TXN00333,2026-04-09,P012,Coffee 10s,Beverages,1,85,85,76,Cash
+TXN00359,2026-04-09,P002,Cooking Oil 1L,Grocery,1,95,95,54,E-wallet
+TXN00416,2026-04-09,P009,Soft Drink 1.5L,Beverages,1,75,75,75,E-wallet
+TXN00529,2026-04-09,P004,Canned Sardines,Grocery,3,28,84,200,E-wallet
+TXN00581,2026-04-09,P005,Laundry Detergent,Household,3,55,165,63,E-wallet
+TXN00595,2026-04-09,P004,Canned Sardines,Grocery,3,28,84,187,Cash
+TXN00684,2026-04-09,P007,Shampoo Sachet,Personal Care,4,8,32,475,E-wallet
+TXN00711,2026-04-09,P008,Bottled Water,Beverages,3,20,60,274,Debit/Credit Card
+TXN00869,2026-04-09,P010,Bread Loaf,Bakery,4,65,260,0,Cash
+TXN00035,2026-04-10,P005,Laundry Detergent,Household,3,55,165,167,E-wallet
+TXN00252,2026-04-10,P001,Rice 5kg,Grocery,5,285,1425,14,Debit/Credit Card
+TXN00427,2026-04-10,P006,Bath Soap,Personal Care,1,32,32,170,Cash
+TXN00517,2026-04-10,P010,Bread Loaf,Bakery,1,65,65,1,Cash
+TXN00732,2026-04-10,P009,Soft Drink 1.5L,Beverages,4,75,300,21,E-wallet
+TXN00740,2026-04-10,P010,Bread Loaf,Bakery,3,65,195,0,E-wallet
+TXN00045,2026-04-11,P001,Rice 5kg,Grocery,3,285,855,69,Cash
+TXN00067,2026-04-11,P001,Rice 5kg,Grocery,4,285,1140,65,Cash
+TXN00556,2026-04-11,P001,Rice 5kg,Grocery,1,285,285,0,Cash
+TXN00579,2026-04-11,P012,Coffee 10s,Beverages,4,85,340,34,Cash
+TXN00745,2026-04-11,P001,Rice 5kg,Grocery,1,285,285,0,Cash
+TXN00856,2026-04-11,P008,Bottled Water,Beverages,1,20,20,240,Cash
+TXN00900,2026-04-11,P006,Bath Soap,Personal Care,1,32,32,76,Cash
+TXN00945,2026-04-11,P003,Instant Noodles,Grocery,5,15,75,375,Cash
+TXN00202,2026-04-12,P009,Soft Drink 1.5L,Beverages,3,75,225,112,Cash
+TXN00234,2026-04-12,P012,Coffee 10s,Beverages,2,85,170,91,Cash
+TXN00237,2026-04-12,P004,Canned Sardines,Grocery,1,28,28,235,E-wallet
+TXN00706,2026-04-12,P002,Cooking Oil 1L,Grocery,1,95,95,11,Cash
+TXN00835,2026-04-12,P002,Cooking Oil 1L,Grocery,1,95,95,4,Cash
+TXN00070,2026-04-13,P009,Soft Drink 1.5L,Beverages,1,75,75,139,Cash
+TXN00638,2026-04-13,P003,Instant Noodles,Grocery,2,15,30,426,Cash
+TXN00688,2026-04-13,P001,Rice 5kg,Grocery,3,285,855,0,Cash
+TXN00827,2026-04-13,P011,Eggs Dozen,Grocery,2,110,220,0,E-wallet
+TXN00906,2026-04-13,P011,Eggs Dozen,Grocery,2,110,220,0,E-wallet
+TXN00082,2026-04-14,P011,Eggs Dozen,Grocery,3,110,330,58,Cash
+TXN00101,2026-04-14,P009,Soft Drink 1.5L,Beverages,2,75,150,131,E-wallet
+TXN00187,2026-04-14,P010,Bread Loaf,Bakery,2,65,130,69,Cash
+TXN00223,2026-04-14,P012,Coffee 10s,Beverages,3,85,255,106,E-wallet
+TXN00233,2026-04-14,P010,Bread Loaf,Bakery,2,65,130,59,Cash
+TXN00276,2026-04-14,P009,Soft Drink 1.5L,Beverages,3,75,225,97,E-wallet
+TXN00704,2026-04-14,P007,Shampoo Sachet,Personal Care,3,8,24,469,E-wallet
+TXN00494,2026-04-15,P009,Soft Drink 1.5L,Beverages,2,75,150,67,E-wallet
+TXN00708,2026-04-15,P004,Canned Sardines,Grocery,2,28,56,165,Cash
+TXN00265,2026-04-16,P012,Coffee 10s,Beverages,2,85,170,89,Cash
+TXN00299,2026-04-16,P012,Coffee 10s,Beverages,2,85,170,82,Cash
+TXN00516,2026-04-16,P011,Eggs Dozen,Grocery,3,110,330,0,Cash
+TXN00535,2026-04-16,P011,Eggs Dozen,Grocery,3,110,330,0,Cash
+TXN00582,2026-04-16,P002,Cooking Oil 1L,Grocery,5,95,475,23,E-wallet
+TXN00690,2026-04-16,P009,Soft Drink 1.5L,Beverages,1,75,75,29,E-wallet
+TXN00713,2026-04-16,P009,Soft Drink 1.5L,Beverages,3,75,225,26,Debit/Credit Card
+TXN00003,2026-04-17,P008,Bottled Water,Beverages,1,20,20,399,Cash
+TXN00166,2026-04-17,P004,Canned Sardines,Grocery,4,28,112,248,E-wallet
+TXN00589,2026-04-17,P001,Rice 5kg,Grocery,1,285,285,0,Cash
+TXN00722,2026-04-17,P007,Shampoo Sachet,Personal Care,1,8,8,467,Cash
+TXN00844,2026-04-17,P005,Laundry Detergent,Household,2,55,110,17,E-wallet
+TXN00994,2026-04-17,P003,Instant Noodles,Grocery,2,15,30,368,Cash
+TXN00057,2026-04-18,P007,Shampoo Sachet,Personal Care,2,8,16,589,Cash
+TXN00131,2026-04-18,P002,Cooking Oil 1L,Grocery,5,95,475,95,E-wallet
+TXN00158,2026-04-18,P011,Eggs Dozen,Grocery,3,110,330,53,Cash
+TXN00159,2026-04-18,P004,Canned Sardines,Grocery,1,28,28,253,Cash
+TXN00229,2026-04-18,P012,Coffee 10s,Beverages,5,85,425,93,Cash
+TXN00235,2026-04-18,P007,Shampoo Sachet,Personal Care,2,8,16,565,E-wallet
+TXN00241,2026-04-18,P003,Instant Noodles,Grocery,1,15,15,476,Cash
+TXN00402,2026-04-18,P004,Canned Sardines,Grocery,1,28,28,224,E-wallet
+TXN00839,2026-04-18,P004,Canned Sardines,Grocery,1,28,28,143,Debit/Credit Card
+TXN00860,2026-04-18,P011,Eggs Dozen,Grocery,3,110,330,0,E-wallet
+TXN00907,2026-04-18,P006,Bath Soap,Personal Care,3,32,96,73,Cash
+TXN00944,2026-04-18,P010,Bread Loaf,Bakery,2,65,130,0,Cash
+TXN00106,2026-04-19,P012,Coffee 10s,Beverages,3,85,255,117,Cash
+TXN00216,2026-04-19,P003,Instant Noodles,Grocery,2,15,30,478,E-wallet
+TXN00615,2026-04-19,P003,Instant Noodles,Grocery,2,15,30,433,Cash
+TXN00627,2026-04-19,P010,Bread Loaf,Bakery,2,65,130,0,Cash
+TXN00786,2026-04-19,P003,Instant Noodles,Grocery,1,15,15,411,E-wallet
+TXN00934,2026-04-19,P005,Laundry Detergent,Household,1,55,55,9,E-wallet
+TXN00161,2026-04-20,P005,Laundry Detergent,Household,2,55,110,145,Cash
+TXN00330,2026-04-20,P005,Laundry Detergent,Household,2,55,110,121,Cash
+TXN00650,2026-04-20,P010,Bread Loaf,Bakery,1,65,65,0,Cash
+TXN00806,2026-04-20,P005,Laundry Detergent,Household,3,55,165,20,E-wallet
+TXN00889,2026-04-20,P011,Eggs Dozen,Grocery,1,110,110,0,Cash
+TXN00255,2026-04-21,P008,Bottled Water,Beverages,4,20,80,364,Cash
+TXN00606,2026-04-21,P009,Soft Drink 1.5L,Beverages,1,75,75,44,Cash
+TXN00841,2026-04-21,P003,Instant Noodles,Grocery,2,15,30,397,Cash
+TXN00173,2026-04-22,P007,Shampoo Sachet,Personal Care,1,8,8,573,E-wallet
+TXN00350,2026-04-22,P009,Soft Drink 1.5L,Beverages,1,75,75,93,Cash
+TXN00415,2026-04-22,P009,Soft Drink 1.5L,Beverages,2,75,150,76,E-wallet
+TXN00883,2026-04-22,P004,Canned Sardines,Grocery,2,28,56,136,Cash
+TXN00104,2026-04-23,P003,Instant Noodles,Grocery,2,15,30,488,E-wallet
+TXN00146,2026-04-23,P004,Canned Sardines,Grocery,5,28,140,254,Cash
+TXN00209,2026-04-23,P004,Canned Sardines,Grocery,1,28,28,238,Cash
+TXN00546,2026-04-23,P009,Soft Drink 1.5L,Beverages,4,75,300,51,E-wallet
+TXN00557,2026-04-23,P004,Canned Sardines,Grocery,1,28,28,196,Cash
+TXN00958,2026-04-23,P010,Bread Loaf,Bakery,1,65,65,0,Cash
+TXN00981,2026-04-23,P012,Coffee 10s,Beverages,2,85,170,0,Cash
+TXN00995,2026-04-23,P005,Laundry Detergent,Household,3,55,165,0,Cash
+TXN00127,2026-04-24,P009,Soft Drink 1.5L,Beverages,1,75,75,126,Cash
+TXN00150,2026-04-24,P001,Rice 5kg,Grocery,2,285,570,39,E-wallet
+TXN00177,2026-04-24,P002,Cooking Oil 1L,Grocery,2,95,190,84,E-wallet
+TXN00230,2026-04-24,P011,Eggs Dozen,Grocery,3,110,330,32,Cash
+TXN00769,2026-04-24,P005,Laundry Detergent,Household,4,55,220,28,E-wallet
+TXN00569,2026-04-25,P005,Laundry Detergent,Household,1,55,55,71,Cash
+TXN00784,2026-04-25,P012,Coffee 10s,Beverages,2,85,170,0,E-wallet
+TXN00790,2026-04-25,P012,Coffee 10s,Beverages,1,85,85,0,Cash
+TXN00873,2026-04-25,P010,Bread Loaf,Bakery,1,65,65,0,Cash
+TXN00931,2026-04-25,P007,Shampoo Sachet,Personal Care,5,8,40,424,Cash
+TXN00121,2026-04-26,P012,Coffee 10s,Beverages,2,85,170,114,Cash
+TXN00281,2026-04-26,P012,Coffee 10s,Beverages,2,85,170,87,Cash
+TXN00480,2026-04-26,P012,Coffee 10s,Beverages,2,85,170,52,Cash
+TXN00783,2026-04-26,P009,Soft Drink 1.5L,Beverages,1,75,75,14,Cash
+TXN00853,2026-04-26,P010,Bread Loaf,Bakery,3,65,195,0,E-wallet
+TXN00912,2026-04-26,P010,Bread Loaf,Bakery,4,65,260,0,Cash
+TXN00103,2026-04-27,P011,Eggs Dozen,Grocery,2,110,220,56,Cash
+TXN00519,2026-04-27,P009,Soft Drink 1.5L,Beverages,2,75,150,60,Cash
+TXN00599,2026-04-27,P002,Cooking Oil 1L,Grocery,1,95,95,21,Cash
+TXN00778,2026-04-27,P010,Bread Loaf,Bakery,2,65,130,0,Cash
+TXN00206,2026-04-28,P011,Eggs Dozen,Grocery,2,110,220,35,E-wallet
+TXN00218,2026-04-28,P001,Rice 5kg,Grocery,1,285,285,26,E-wallet
+TXN00394,2026-04-28,P009,Soft Drink 1.5L,Beverages,2,75,150,81,Cash
+TXN00489,2026-04-28,P010,Bread Loaf,Bakery,2,65,130,13,Cash
+TXN00898,2026-04-28,P010,Bread Loaf,Bakery,1,65,65,0,E-wallet
+TXN00129,2026-04-29,P009,Soft Drink 1.5L,Beverages,5,75,375,121,E-wallet
+TXN00139,2026-04-29,P008,Bottled Water,Beverages,4,20,80,387,E-wallet
+TXN00259,2026-04-29,P002,Cooking Oil 1L,Grocery,1,95,95,69,Cash
+TXN00338,2026-04-29,P005,Laundry Detergent,Household,2,55,110,114,E-wallet
+TXN00346,2026-04-29,P010,Bread Loaf,Bakery,4,65,260,24,Cash
+TXN00518,2026-04-29,P005,Laundry Detergent,Household,5,55,275,77,Cash
+TXN00542,2026-04-29,P006,Bath Soap,Personal Care,2,32,64,145,E-wallet
+TXN00544,2026-04-29,P010,Bread Loaf,Bakery,2,65,130,0,Cash
+TXN00733,2026-04-29,P007,Shampoo Sachet,Personal Care,3,8,24,464,E-wallet
+TXN00826,2026-04-29,P009,Soft Drink 1.5L,Beverages,1,75,75,9,E-wallet
+TXN00076,2026-04-30,P008,Bottled Water,Beverages,3,20,60,394,Cash
+TXN00269,2026-04-30,P002,Cooking Oil 1L,Grocery,1,95,95,67,Cash
+TXN00482,2026-04-30,P005,Laundry Detergent,Household,2,55,110,86,E-wallet
+TXN00575,2026-04-30,P011,Eggs Dozen,Grocery,4,110,440,0,Cash
+TXN00667,2026-04-30,P012,Coffee 10s,Beverages,5,85,425,16,Debit/Credit Card
+TXN00762,2026-04-30,P009,Soft Drink 1.5L,Beverages,2,75,150,16,E-wallet
+TXN00053,2026-05-01,P009,Soft Drink 1.5L,Beverages,3,75,225,144,Cash
+TXN00634,2026-05-01,P005,Laundry Detergent,Household,3,55,165,48,Debit/Credit Card
+TXN00693,2026-05-01,P005,Laundry Detergent,Household,1,55,55,37,E-wallet
+TXN00709,2026-05-01,P001,Rice 5kg,Grocery,2,285,570,0,Cash
+TXN00277,2026-05-02,P011,Eggs Dozen,Grocery,1,110,110,23,Cash
+TXN00418,2026-05-02,P006,Bath Soap,Personal Care,1,32,32,171,Cash
+TXN00583,2026-05-02,P002,Cooking Oil 1L,Grocery,1,95,95,22,Cash
+TXN00837,2026-05-02,P001,Rice 5kg,Grocery,1,285,285,0,Cash
+TXN00935,2026-05-02,P009,Soft Drink 1.5L,Beverages,1,75,75,0,Cash
+TXN00960,2026-05-02,P001,Rice 5kg,Grocery,1,285,285,0,E-wallet
+TXN00137,2026-05-03,P008,Bottled Water,Beverages,1,20,20,391,Cash
+TXN00205,2026-05-03,P009,Soft Drink 1.5L,Beverages,1,75,75,111,Cash
+TXN00283,2026-05-03,P009,Soft Drink 1.5L,Beverages,2,75,150,95,E-wallet
+TXN00564,2026-05-03,P010,Bread Loaf,Bakery,1,65,65,0,Cash
+TXN00728,2026-05-03,P008,Bottled Water,Beverages,1,20,20,270,E-wallet
+TXN00747,2026-05-03,P005,Laundry Detergent,Household,1,55,55,32,Cash
+TXN00514,2026-05-04,P009,Soft Drink 1.5L,Beverages,3,75,225,62,Cash
+TXN00677,2026-05-04,P006,Bath Soap,Personal Care,2,32,64,110,E-wallet
+TXN00916,2026-05-04,P011,Eggs Dozen,Grocery,4,110,440,0,Cash
+TXN00938,2026-05-04,P006,Bath Soap,Personal Care,1,32,32,56,Cash
+TXN00017,2026-05-05,P002,Cooking Oil 1L,Grocery,2,95,190,118,Cash
+TXN00052,2026-05-05,P008,Bottled Water,Beverages,1,20,20,398,Cash
+TXN00061,2026-05-05,P003,Instant Noodles,Grocery,2,15,30,491,E-wallet
+TXN00162,2026-05-05,P002,Cooking Oil 1L,Grocery,1,95,95,88,Cash
+TXN00312,2026-05-05,P010,Bread Loaf,Bakery,1,65,65,39,Cash
+TXN00502,2026-05-05,P012,Coffee 10s,Beverages,1,85,85,47,Cash
+TXN00636,2026-05-05,P009,Soft Drink 1.5L,Beverages,2,75,150,42,Cash
+TXN00681,2026-05-05,P006,Bath Soap,Personal Care,2,32,64,108,Cash
+TXN00122,2026-05-06,P005,Laundry Detergent,Household,2,55,110,152,Cash
+TXN00213,2026-05-06,P009,Soft Drink 1.5L,Beverages,1,75,75,103,Cash
+TXN00894,2026-05-06,P006,Bath Soap,Personal Care,1,32,32,77,E-wallet
+TXN00915,2026-05-06,P011,Eggs Dozen,Grocery,1,110,110,0,Cash
+TXN00456,2026-05-07,P007,Shampoo Sachet,Personal Care,4,8,32,519,Cash
+TXN00460,2026-05-07,P008,Bottled Water,Beverages,3,20,60,311,Cash
+TXN00462,2026-05-07,P012,Coffee 10s,Beverages,3,85,255,56,Cash
+TXN00679,2026-05-07,P012,Coffee 10s,Beverages,2,85,170,9,Cash
+TXN00710,2026-05-07,P001,Rice 5kg,Grocery,1,285,285,0,Cash
+TXN00914,2026-05-07,P010,Bread Loaf,Bakery,1,65,65,0,Cash
+TXN00018,2026-05-08,P005,Laundry Detergent,Household,2,55,110,177,E-wallet
+TXN00039,2026-05-08,P007,Shampoo Sachet,Personal Care,4,8,32,592,E-wallet
+TXN00224,2026-05-08,P001,Rice 5kg,Grocery,4,285,1140,21,Cash
+TXN00337,2026-05-08,P011,Eggs Dozen,Grocery,3,110,330,1,Cash
+TXN00540,2026-05-08,P009,Soft Drink 1.5L,Beverages,1,75,75,55,Cash
+TXN00742,2026-05-08,P002,Cooking Oil 1L,Grocery,1,95,95,6,Debit/Credit Card
+TXN00876,2026-05-08,P001,Rice 5kg,Grocery,3,285,855,0,Cash
+TXN00134,2026-05-09,P009,Soft Drink 1.5L,Beverages,3,75,225,118,Cash
+TXN00228,2026-05-09,P012,Coffee 10s,Beverages,3,85,255,98,E-wallet
+TXN00318,2026-05-09,P011,Eggs Dozen,Grocery,1,110,110,4,Cash
+TXN00393,2026-05-09,P011,Eggs Dozen,Grocery,1,110,110,0,Cash
+TXN00417,2026-05-09,P006,Bath Soap,Personal Care,2,32,64,172,E-wallet
+TXN00509,2026-05-09,P005,Laundry Detergent,Household,2,55,110,82,Cash
+TXN00009,2026-05-10,P007,Shampoo Sachet,Personal Care,4,8,32,596,E-wallet
+TXN00095,2026-05-10,P001,Rice 5kg,Grocery,1,285,285,60,E-wallet
+TXN00145,2026-05-10,P006,Bath Soap,Personal Care,2,32,64,223,Cash
+TXN00250,2026-05-10,P005,Laundry Detergent,Household,1,55,55,134,Debit/Credit Card
+TXN00301,2026-05-10,P005,Laundry Detergent,Household,1,55,55,124,Cash
+TXN00339,2026-05-10,P002,Cooking Oil 1L,Grocery,1,95,95,58,Cash
+TXN00905,2026-05-10,P009,Soft Drink 1.5L,Beverages,2,75,150,0,Cash
+TXN00004,2026-05-11,P005,Laundry Detergent,Household,1,55,55,179,E-wallet
+TXN00028,2026-05-11,P006,Bath Soap,Personal Care,2,32,64,244,E-wallet
+TXN00172,2026-05-11,P007,Shampoo Sachet,Personal Care,2,8,16,574,Cash
+TXN00193,2026-05-11,P002,Cooking Oil 1L,Grocery,1,95,95,78,E-wallet
+TXN00294,2026-05-11,P007,Shampoo Sachet,Personal Care,1,8,8,550,E-wallet
+TXN00501,2026-05-11,P011,Eggs Dozen,Grocery,1,110,110,0,Debit/Credit Card
+TXN00670,2026-05-11,P009,Soft Drink 1.5L,Beverages,1,75,75,32,Cash
+TXN00829,2026-05-11,P007,Shampoo Sachet,Personal Care,2,8,16,449,E-wallet
+TXN00295,2026-05-12,P005,Laundry Detergent,Household,2,55,110,125,Cash
+TXN00588,2026-05-12,P011,Eggs Dozen,Grocery,5,110,550,0,E-wallet
+TXN00663,2026-05-12,P010,Bread Loaf,Bakery,3,65,195,0,E-wallet
+TXN00804,2026-05-12,P006,Bath Soap,Personal Care,3,32,96,85,E-wallet
+TXN00858,2026-05-12,P004,Canned Sardines,Grocery,1,28,28,140,E-wallet
+TXN00947,2026-05-12,P007,Shampoo Sachet,Personal Care,3,8,24,418,Cash
+TXN00066,2026-05-13,P002,Cooking Oil 1L,Grocery,3,95,285,108,Cash
+TXN00068,2026-05-13,P011,Eggs Dozen,Grocery,5,110,550,64,E-wallet
+TXN00258,2026-05-13,P010,Bread Loaf,Bakery,4,65,260,51,Debit/Credit Card
+TXN00296,2026-05-13,P001,Rice 5kg,Grocery,5,285,1425,5,Cash
+TXN00303,2026-05-13,P002,Cooking Oil 1L,Grocery,2,95,190,64,Cash
+TXN00414,2026-05-13,P008,Bottled Water,Beverages,5,20,100,320,E-wallet
+TXN00491,2026-05-13,P007,Shampoo Sachet,Personal Care,2,8,16,506,Cash
+TXN00692,2026-05-13,P005,Laundry Detergent,Household,1,55,55,38,Cash
+TXN00956,2026-05-13,P001,Rice 5kg,Grocery,2,285,570,0,E-wallet
+TXN00092,2026-05-14,P012,Coffee 10s,Beverages,4,85,340,120,Cash
+TXN00151,2026-05-14,P008,Bottled Water,Beverages,3,20,60,384,E-wallet
+TXN00525,2026-05-14,P005,Laundry Detergent,Household,1,55,55,73,E-wallet
+TXN00532,2026-05-14,P001,Rice 5kg,Grocery,2,285,570,0,Cash
+TXN00757,2026-05-14,P001,Rice 5kg,Grocery,1,285,285,0,Cash
+TXN00937,2026-05-14,P003,Instant Noodles,Grocery,1,15,15,380,E-wallet
+TXN00984,2026-05-14,P010,Bread Loaf,Bakery,5,65,325,0,Debit/Credit Card
+TXN00005,2026-05-15,P003,Instant Noodles,Grocery,1,15,15,494,E-wallet
+TXN00064,2026-05-15,P012,Coffee 10s,Beverages,2,85,170,127,E-wallet
+TXN00217,2026-05-15,P001,Rice 5kg,Grocery,4,285,1140,27,Cash
+TXN00387,2026-05-15,P002,Cooking Oil 1L,Grocery,1,95,95,53,Debit/Credit Card
+TXN00613,2026-05-15,P006,Bath Soap,Personal Care,3,32,96,118,E-wallet
+TXN00755,2026-05-15,P012,Coffee 10s,Beverages,1,85,85,4,E-wallet
+TXN00761,2026-05-15,P011,Eggs Dozen,Grocery,2,110,220,0,E-wallet
+TXN00886,2026-05-15,P008,Bottled Water,Beverages,1,20,20,235,Cash
+TXN00982,2026-05-15,P003,Instant Noodles,Grocery,4,15,60,370,Cash
+TXN00040,2026-05-16,P006,Bath Soap,Personal Care,1,32,32,243,E-wallet
+TXN00155,2026-05-16,P002,Cooking Oil 1L,Grocery,2,95,190,89,E-wallet
+TXN00219,2026-05-16,P008,Bottled Water,Beverages,3,20,60,374,Cash
+TXN00596,2026-05-16,P005,Laundry Detergent,Household,4,55,220,59,E-wallet
+TXN00820,2026-05-16,P004,Canned Sardines,Grocery,2,28,56,146,Debit/Credit Card
+TXN00975,2026-05-16,P005,Laundry Detergent,Household,2,55,110,0,Cash
+TXN00044,2026-05-17,P001,Rice 5kg,Grocery,3,285,855,72,Cash
+TXN00062,2026-05-17,P005,Laundry Detergent,Household,1,55,55,165,Cash
+TXN00175,2026-05-17,P009,Soft Drink 1.5L,Beverages,3,75,225,115,Cash
+TXN00274,2026-05-17,P009,Soft Drink 1.5L,Beverages,3,75,225,100,Cash
+TXN00600,2026-05-17,P008,Bottled Water,Beverages,4,20,80,289,Cash
+TXN00665,2026-05-17,P008,Bottled Water,Beverages,2,20,40,281,Cash
+TXN00921,2026-05-17,P003,Instant Noodles,Grocery,3,15,45,382,Cash
+TXN00240,2026-05-18,P005,Laundry Detergent,Household,1,55,55,135,E-wallet
+TXN00293,2026-05-18,P003,Instant Noodles,Grocery,1,15,15,468,E-wallet
+TXN00464,2026-05-18,P003,Instant Noodles,Grocery,3,15,45,452,E-wallet
+TXN00366,2026-05-19,P009,Soft Drink 1.5L,Beverages,4,75,300,88,E-wallet
+TXN00449,2026-05-19,P006,Bath Soap,Personal Care,3,32,96,162,E-wallet
+TXN00485,2026-05-19,P010,Bread Loaf,Bakery,2,65,130,17,Cash
+TXN00625,2026-05-19,P006,Bath Soap,Personal Care,1,32,32,116,Cash
+TXN00029,2026-05-20,P011,Eggs Dozen,Grocery,4,110,440,78,E-wallet
+TXN00163,2026-05-20,P001,Rice 5kg,Grocery,4,285,1140,34,Cash
+TXN00538,2026-05-20,P001,Rice 5kg,Grocery,5,285,1425,0,Debit/Credit Card
+TXN00746,2026-05-20,P011,Eggs Dozen,Grocery,1,110,110,0,E-wallet
+TXN00805,2026-05-20,P010,Bread Loaf,Bakery,3,65,195,0,Cash
+TXN00870,2026-05-20,P001,Rice 5kg,Grocery,1,285,285,0,Cash
+TXN00875,2026-05-20,P010,Bread Loaf,Bakery,1,65,65,0,E-wallet
+TXN00988,2026-05-20,P001,Rice 5kg,Grocery,3,285,855,0,Cash
+TXN00324,2026-05-21,P008,Bottled Water,Beverages,1,20,20,350,E-wallet
+TXN00421,2026-05-21,P007,Shampoo Sachet,Personal Care,3,8,24,525,Cash
+TXN00847,2026-05-21,P005,Laundry Detergent,Household,2,55,110,15,Cash
+TXN00182,2026-05-22,P011,Eggs Dozen,Grocery,1,110,110,43,Cash
+TXN00316,2026-05-22,P012,Coffee 10s,Beverages,2,85,170,77,E-wallet
+TXN00348,2026-05-22,P010,Bread Loaf,Bakery,1,65,65,23,Cash
+TXN00368,2026-05-22,P011,Eggs Dozen,Grocery,4,110,440,0,Debit/Credit Card
+TXN00724,2026-05-22,P008,Bottled Water,Beverages,2,20,40,271,E-wallet
+TXN00825,2026-05-22,P001,Rice 5kg,Grocery,2,285,570,0,Cash
+TXN00848,2026-05-22,P001,Rice 5kg,Grocery,4,285,1140,0,E-wallet
+TXN00930,2026-05-22,P007,Shampoo Sachet,Personal Care,3,8,24,429,Debit/Credit Card
+TXN00985,2026-05-22,P001,Rice 5kg,Grocery,1,285,285,0,Debit/Credit Card
+TXN00071,2026-05-23,P011,Eggs Dozen,Grocery,2,110,220,62,Cash
+TXN00125,2026-05-23,P004,Canned Sardines,Grocery,2,28,56,267,Cash
+TXN00374,2026-05-23,P003,Instant Noodles,Grocery,2,15,30,462,Cash
+TXN00440,2026-05-23,P011,Eggs Dozen,Grocery,2,110,220,0,Cash
+TXN00521,2026-05-23,P012,Coffee 10s,Beverages,1,85,85,44,E-wallet
+TXN00721,2026-05-23,P007,Shampoo Sachet,Personal Care,1,8,8,468,Debit/Credit Card
+TXN00273,2026-05-24,P005,Laundry Detergent,Household,1,55,55,127,E-wallet
+TXN00300,2026-05-24,P006,Bath Soap,Personal Care,4,32,128,193,Cash
+TXN00341,2026-05-24,P005,Laundry Detergent,Household,1,55,55,113,Cash
+TXN00712,2026-05-24,P011,Eggs Dozen,Grocery,2,110,220,0,Cash
+TXN00763,2026-05-24,P004,Canned Sardines,Grocery,3,28,84,150,E-wallet
+TXN00838,2026-05-24,P002,Cooking Oil 1L,Grocery,4,95,380,0,Cash
+TXN00011,2026-05-25,P004,Canned Sardines,Grocery,2,28,56,298,Cash
+TXN00110,2026-05-25,P004,Canned Sardines,Grocery,5,28,140,269,Cash
+TXN00623,2026-05-25,P001,Rice 5kg,Grocery,3,285,855,0,Cash
+TXN00642,2026-05-25,P005,Laundry Detergent,Household,2,55,110,46,E-wallet
+TXN00736,2026-05-25,P003,Instant Noodles,Grocery,2,15,30,416,Cash
+TXN00819,2026-05-25,P006,Bath Soap,Personal Care,2,32,64,78,E-wallet
+TXN00119,2026-05-26,P007,Shampoo Sachet,Personal Care,1,8,8,582,Cash
+TXN00297,2026-05-26,P011,Eggs Dozen,Grocery,3,110,330,16,E-wallet
+TXN00398,2026-05-26,P008,Bottled Water,Beverages,1,20,20,330,E-wallet
+TXN00861,2026-05-26,P009,Soft Drink 1.5L,Beverages,2,75,150,2,E-wallet
+TXN00060,2026-05-27,P010,Bread Loaf,Bakery,1,65,65,99,Cash
+TXN00317,2026-05-27,P007,Shampoo Sachet,Personal Care,1,8,8,549,E-wallet
+TXN00493,2026-05-27,P008,Bottled Water,Beverages,4,20,80,301,E-wallet
+TXN00553,2026-05-27,P011,Eggs Dozen,Grocery,2,110,220,0,E-wallet
+TXN00652,2026-05-27,P010,Bread Loaf,Bakery,1,65,65,0,E-wallet
+TXN00126,2026-05-28,P009,Soft Drink 1.5L,Beverages,1,75,75,127,Cash
+TXN00214,2026-05-28,P008,Bottled Water,Beverages,3,20,60,377,E-wallet
+TXN00443,2026-05-28,P012,Coffee 10s,Beverages,3,85,255,64,E-wallet
+TXN00842,2026-05-28,P011,Eggs Dozen,Grocery,4,110,440,0,E-wallet
+TXN00140,2026-05-29,P001,Rice 5kg,Grocery,1,285,285,46,Cash
+TXN00370,2026-05-29,P001,Rice 5kg,Grocery,2,285,570,0,Cash
+TXN00714,2026-05-29,P012,Coffee 10s,Beverages,1,85,85,8,E-wallet
+TXN00849,2026-05-29,P012,Coffee 10s,Beverages,5,85,425,0,E-wallet
+TXN00903,2026-05-29,P012,Coffee 10s,Beverages,1,85,85,0,Cash
+TXN00997,2026-05-29,P004,Canned Sardines,Grocery,1,28,28,121,Cash
+TXN00343,2026-05-30,P002,Cooking Oil 1L,Grocery,1,95,95,57,E-wallet
+TXN00389,2026-05-30,P012,Coffee 10s,Beverages,2,85,170,72,E-wallet
+TXN00478,2026-05-30,P009,Soft Drink 1.5L,Beverages,1,75,75,70,Cash
+TXN00548,2026-05-30,P012,Coffee 10s,Beverages,2,85,170,40,Cash
+TXN00691,2026-05-30,P004,Canned Sardines,Grocery,1,28,28,171,Cash
+TXN00830,2026-05-30,P003,Instant Noodles,Grocery,1,15,15,402,Cash
+TXN00007,2026-05-31,P012,Coffee 10s,Beverages,2,85,170,138,Cash
+TXN00244,2026-05-31,P002,Cooking Oil 1L,Grocery,3,95,285,73,Cash
+TXN00384,2026-05-31,P005,Laundry Detergent,Household,1,55,55,109,E-wallet
+TXN00474,2026-05-31,P009,Soft Drink 1.5L,Beverages,2,75,150,71,E-wallet
+TXN00571,2026-05-31,P010,Bread Loaf,Bakery,5,65,325,0,E-wallet
+TXN00592,2026-05-31,P003,Instant Noodles,Grocery,1,15,15,438,Cash
+TXN00754,2026-05-31,P001,Rice 5kg,Grocery,3,285,855,0,E-wallet
+TXN00911,2026-05-31,P002,Cooking Oil 1L,Grocery,2,95,190,0,Debit/Credit Card
+TXN00932,2026-05-31,P006,Bath Soap,Personal Care,4,32,128,60,E-wallet
+TXN00593,2026-06-01,P008,Bottled Water,Beverages,2,20,40,293,Debit/Credit Card
+TXN00016,2026-06-02,P004,Canned Sardines,Grocery,5,28,140,293,Cash
+TXN00021,2026-06-02,P011,Eggs Dozen,Grocery,2,110,220,84,Cash
+TXN00077,2026-06-02,P004,Canned Sardines,Grocery,1,28,28,282,Cash
+TXN00094,2026-06-02,P001,Rice 5kg,Grocery,1,285,285,61,Cash
+TXN00452,2026-06-02,P012,Coffee 10s,Beverages,1,85,85,62,E-wallet
+TXN00508,2026-06-02,P012,Coffee 10s,Beverages,2,85,170,45,Cash
+TXN00568,2026-06-02,P007,Shampoo Sachet,Personal Care,1,8,8,498,Cash
+TXN00118,2026-06-03,P003,Instant Noodles,Grocery,1,15,15,486,Cash
+TXN00377,2026-06-03,P011,Eggs Dozen,Grocery,4,110,440,0,Cash
+TXN00651,2026-06-03,P009,Soft Drink 1.5L,Beverages,2,75,150,33,Cash
+TXN00952,2026-06-03,P010,Bread Loaf,Bakery,2,65,130,0,Debit/Credit Card
+TXN01000,2026-06-03,P003,Instant Noodles,Grocery,1,15,15,365,E-wallet
+TXN00487,2026-06-04,P010,Bread Loaf,Bakery,2,65,130,15,Cash
+TXN00718,2026-06-04,P012,Coffee 10s,Beverages,1,85,85,7,Cash
+TXN00828,2026-06-04,P010,Bread Loaf,Bakery,3,65,195,0,Cash
+TXN00188,2026-06-05,P008,Bottled Water,Beverages,2,20,40,380,E-wallet
+TXN00245,2026-06-05,P011,Eggs Dozen,Grocery,3,110,330,25,E-wallet
+TXN00486,2026-06-05,P007,Shampoo Sachet,Personal Care,1,8,8,508,Cash
+TXN00727,2026-06-05,P012,Coffee 10s,Beverages,1,85,85,6,Cash
+TXN00851,2026-06-05,P007,Shampoo Sachet,Personal Care,3,8,24,446,E-wallet
+TXN00966,2026-06-05,P011,Eggs Dozen,Grocery,2,110,220,0,Cash
+TXN00073,2026-06-06,P012,Coffee 10s,Beverages,3,85,255,124,Debit/Credit Card
+TXN00351,2026-06-06,P011,Eggs Dozen,Grocery,5,110,550,0,Cash
+TXN00631,2026-06-06,P004,Canned Sardines,Grocery,1,28,28,183,Cash
+TXN00687,2026-06-06,P006,Bath Soap,Personal Care,1,32,32,107,E-wallet
+TXN00885,2026-06-06,P003,Instant Noodles,Grocery,3,15,45,388,Cash
+TXN00953,2026-06-06,P010,Bread Loaf,Bakery,1,65,65,0,E-wallet
+TXN00038,2026-06-07,P009,Soft Drink 1.5L,Beverages,1,75,75,147,Cash
+TXN00080,2026-06-07,P007,Shampoo Sachet,Personal Care,3,8,24,586,Cash
+TXN00550,2026-06-07,P006,Bath Soap,Personal Care,4,32,128,140,Debit/Credit Card
+TXN00854,2026-06-07,P008,Bottled Water,Beverages,3,20,60,241,Debit/Credit Card
+TXN00123,2026-06-08,P008,Bottled Water,Beverages,2,20,40,392,E-wallet
+TXN00696,2026-06-08,P005,Laundry Detergent,Household,3,55,165,34,Cash
+TXN00715,2026-06-08,P011,Eggs Dozen,Grocery,3,110,330,0,E-wallet
+TXN00723,2026-06-08,P006,Bath Soap,Personal Care,2,32,64,101,E-wallet
+TXN00871,2026-06-08,P012,Coffee 10s,Beverages,3,85,255,0,Cash
+TXN00909,2026-06-08,P002,Cooking Oil 1L,Grocery,1,95,95,0,Cash
+TXN00074,2026-06-09,P009,Soft Drink 1.5L,Beverages,1,75,75,138,E-wallet
+TXN00356,2026-06-09,P001,Rice 5kg,Grocery,1,285,285,0,E-wallet
+TXN00429,2026-06-09,P004,Canned Sardines,Grocery,2,28,56,219,Cash
+TXN00434,2026-06-09,P012,Coffee 10s,Beverages,1,85,85,67,E-wallet
+TXN00444,2026-06-09,P012,Coffee 10s,Beverages,1,85,85,63,E-wallet
+TXN00551,2026-06-09,P009,Soft Drink 1.5L,Beverages,1,75,75,50,Debit/Credit Card
+TXN00563,2026-06-09,P004,Canned Sardines,Grocery,1,28,28,195,E-wallet
+TXN00630,2026-06-09,P007,Shampoo Sachet,Personal Care,2,8,16,486,Debit/Credit Card
+TXN00138,2026-06-10,P012,Coffee 10s,Beverages,1,85,85,113,Cash
+TXN00143,2026-06-10,P003,Instant Noodles,Grocery,3,15,45,481,Cash
+TXN00247,2026-06-10,P001,Rice 5kg,Grocery,2,285,570,19,E-wallet
+TXN00432,2026-06-10,P004,Canned Sardines,Grocery,4,28,112,215,Cash
+TXN00657,2026-06-10,P011,Eggs Dozen,Grocery,1,110,110,0,Debit/Credit Card
+TXN00802,2026-06-10,P003,Instant Noodles,Grocery,1,15,15,405,Cash
+TXN00102,2026-06-11,P010,Bread Loaf,Bakery,3,65,195,83,Cash
+TXN00192,2026-06-11,P011,Eggs Dozen,Grocery,3,110,330,40,Debit/Credit Card
+TXN00284,2026-06-11,P008,Bottled Water,Beverages,2,20,40,361,E-wallet
+TXN00447,2026-06-11,P006,Bath Soap,Personal Care,5,32,160,165,E-wallet
+TXN00852,2026-06-11,P009,Soft Drink 1.5L,Beverages,2,75,150,4,Cash
+TXN00246,2026-06-12,P002,Cooking Oil 1L,Grocery,2,95,190,71,Cash
+TXN00562,2026-06-12,P006,Bath Soap,Personal Care,2,32,64,138,E-wallet
+TXN00998,2026-06-12,P003,Instant Noodles,Grocery,2,15,30,366,Cash
+TXN00026,2026-06-13,P012,Coffee 10s,Beverages,4,85,340,132,Cash
+TXN00232,2026-06-13,P003,Instant Noodles,Grocery,1,15,15,477,Cash
+TXN00243,2026-06-13,P010,Bread Loaf,Bakery,2,65,130,57,E-wallet
+TXN00345,2026-06-13,P008,Bottled Water,Beverages,2,20,40,342,Cash
+TXN00400,2026-06-13,P008,Bottled Water,Beverages,5,20,100,325,Cash
+TXN00435,2026-06-13,P002,Cooking Oil 1L,Grocery,5,95,475,41,E-wallet
+TXN00788,2026-06-13,P008,Bottled Water,Beverages,2,20,40,259,E-wallet
+TXN00990,2026-06-13,P010,Bread Loaf,Bakery,1,65,65,0,Cash
+TXN00079,2026-06-14,P009,Soft Drink 1.5L,Beverages,1,75,75,137,Cash
+TXN00335,2026-06-14,P005,Laundry Detergent,Household,1,55,55,116,E-wallet
+TXN00392,2026-06-14,P006,Bath Soap,Personal Care,4,32,128,178,E-wallet
+TXN00406,2026-06-14,P004,Canned Sardines,Grocery,2,28,56,222,E-wallet
+TXN00964,2026-06-14,P001,Rice 5kg,Grocery,2,285,570,0,Cash
+TXN00336,2026-06-15,P008,Bottled Water,Beverages,1,20,20,347,Cash
+TXN00093,2026-06-16,P002,Cooking Oil 1L,Grocery,2,95,190,101,Cash
+TXN00211,2026-06-16,P010,Bread Loaf,Bakery,1,65,65,62,E-wallet
+TXN00305,2026-06-16,P012,Coffee 10s,Beverages,1,85,85,81,Cash
+TXN00573,2026-06-16,P006,Bath Soap,Personal Care,5,32,160,126,E-wallet
+TXN00800,2026-06-16,P005,Laundry Detergent,Household,1,55,55,23,E-wallet
+TXN00561,2026-06-17,P009,Soft Drink 1.5L,Beverages,2,75,150,48,Cash
+TXN00612,2026-06-17,P003,Instant Noodles,Grocery,1,15,15,435,Cash
+TXN00751,2026-06-17,P008,Bottled Water,Beverages,1,20,20,264,Cash
+TXN00186,2026-06-18,P012,Coffee 10s,Beverages,2,85,170,109,Cash
+TXN00207,2026-06-18,P009,Soft Drink 1.5L,Beverages,5,75,375,106,Cash
+TXN00597,2026-06-18,P010,Bread Loaf,Bakery,2,65,130,0,Cash
+TXN00725,2026-06-18,P005,Laundry Detergent,Household,1,55,55,33,E-wallet
+TXN00892,2026-06-18,P004,Canned Sardines,Grocery,1,28,28,135,Cash
+TXN00081,2026-06-19,P011,Eggs Dozen,Grocery,1,110,110,61,E-wallet
+TXN00100,2026-06-19,P007,Shampoo Sachet,Personal Care,2,8,16,584,E-wallet
+TXN00141,2026-06-19,P001,Rice 5kg,Grocery,4,285,1140,42,Cash
+TXN00576,2026-06-19,P010,Bread Loaf,Bakery,1,65,65,0,E-wallet
+TXN00729,2026-06-19,P012,Coffee 10s,Beverages,1,85,85,5,Cash
+TXN00741,2026-06-19,P007,Shampoo Sachet,Personal Care,1,8,8,461,E-wallet
+TXN00050,2026-06-20,P006,Bath Soap,Personal Care,2,32,64,238,Cash
+TXN00212,2026-06-20,P007,Shampoo Sachet,Personal Care,1,8,8,567,Cash
+TXN00268,2026-06-20,P007,Shampoo Sachet,Personal Care,2,8,16,552,E-wallet
+TXN00373,2026-06-20,P008,Bottled Water,Beverages,1,20,20,341,Cash
+TXN00409,2026-06-20,P003,Instant Noodles,Grocery,5,15,75,456,E-wallet
+TXN00436,2026-06-20,P002,Cooking Oil 1L,Grocery,1,95,95,40,Cash
+TXN00458,2026-06-20,P010,Bread Loaf,Bakery,2,65,130,21,Cash
+TXN00515,2026-06-20,P004,Canned Sardines,Grocery,1,28,28,203,Cash
+TXN00655,2026-06-20,P001,Rice 5kg,Grocery,2,285,570,0,Cash
+TXN00676,2026-06-20,P012,Coffee 10s,Beverages,2,85,170,11,Cash
+TXN00758,2026-06-20,P003,Instant Noodles,Grocery,1,15,15,415,Cash
+TXN00796,2026-06-20,P008,Bottled Water,Beverages,5,20,100,252,Cash
+TXN00298,2026-06-21,P011,Eggs Dozen,Grocery,1,110,110,15,Cash
+TXN00363,2026-06-21,P007,Shampoo Sachet,Personal Care,2,8,16,538,Cash
+TXN00547,2026-06-21,P007,Shampoo Sachet,Personal Care,1,8,8,499,E-wallet
+TXN00731,2026-06-21,P004,Canned Sardines,Grocery,4,28,112,157,E-wallet
+TXN00272,2026-06-22,P004,Canned Sardines,Grocery,3,28,84,232,E-wallet
+TXN00381,2026-06-22,P001,Rice 5kg,Grocery,2,285,570,0,E-wallet
+TXN00397,2026-06-22,P009,Soft Drink 1.5L,Beverages,2,75,150,79,E-wallet
+TXN00545,2026-06-22,P010,Bread Loaf,Bakery,1,65,65,0,Cash
+TXN00750,2026-06-22,P004,Canned Sardines,Grocery,2,28,56,153,Cash
+TXN00954,2026-06-22,P006,Bath Soap,Personal Care,1,32,32,55,E-wallet
+TXN00992,2026-06-22,P008,Bottled Water,Beverages,1,20,20,224,Cash
+TXN00012,2026-06-23,P006,Bath Soap,Personal Care,1,32,32,249,Cash
+TXN00424,2026-06-23,P009,Soft Drink 1.5L,Beverages,2,75,150,73,E-wallet
+TXN00850,2026-06-23,P001,Rice 5kg,Grocery,4,285,1140,0,Cash
+TXN00888,2026-06-23,P009,Soft Drink 1.5L,Beverages,1,75,75,0,Cash
+TXN00890,2026-06-23,P007,Shampoo Sachet,Personal Care,3,8,24,437,Debit/Credit Card
+TXN00008,2026-06-24,P003,Instant Noodles,Grocery,1,15,15,493,E-wallet
+TXN00105,2026-06-24,P005,Laundry Detergent,Household,5,55,275,157,E-wallet
+TXN00108,2026-06-24,P001,Rice 5kg,Grocery,4,285,1140,56,Cash
+TXN00239,2026-06-24,P008,Bottled Water,Beverages,5,20,100,368,Cash
+TXN00682,2026-06-24,P002,Cooking Oil 1L,Grocery,4,95,380,12,Cash
+TXN00720,2026-06-24,P008,Bottled Water,Beverages,1,20,20,273,Cash
+TXN00753,2026-06-24,P009,Soft Drink 1.5L,Beverages,2,75,150,18,Cash
+TXN00836,2026-06-24,P004,Canned Sardines,Grocery,2,28,56,144,E-wallet
+TXN00170,2026-06-25,P011,Eggs Dozen,Grocery,2,110,220,48,Cash
+TXN00190,2026-06-25,P010,Bread Loaf,Bakery,2,65,130,65,Cash
+TXN00222,2026-06-25,P001,Rice 5kg,Grocery,1,285,285,25,E-wallet
+TXN00472,2026-06-25,P007,Shampoo Sachet,Personal Care,5,8,40,513,E-wallet
+TXN00730,2026-06-25,P004,Canned Sardines,Grocery,1,28,28,161,Cash
+TXN00760,2026-06-25,P012,Coffee 10s,Beverages,1,85,85,3,Cash
+TXN00862,2026-06-25,P003,Instant Noodles,Grocery,2,15,30,392,Cash
+TXN00908,2026-06-25,P011,Eggs Dozen,Grocery,1,110,110,0,Cash
+TXN00917,2026-06-25,P003,Instant Noodles,Grocery,3,15,45,385,E-wallet
+TXN00602,2026-06-26,P004,Canned Sardines,Grocery,2,28,56,185,Cash
+TXN00605,2026-06-26,P007,Shampoo Sachet,Personal Care,5,8,40,488,Cash
+TXN00646,2026-06-26,P002,Cooking Oil 1L,Grocery,1,95,95,16,E-wallet
+TXN00117,2026-06-27,P003,Instant Noodles,Grocery,1,15,15,487,Cash
+TXN00215,2026-06-27,P010,Bread Loaf,Bakery,1,65,65,61,E-wallet
+TXN00322,2026-06-27,P010,Bread Loaf,Bakery,1,65,65,36,Cash
+TXN00344,2026-06-27,P008,Bottled Water,Beverages,3,20,60,344,Cash
+TXN00446,2026-06-27,P002,Cooking Oil 1L,Grocery,2,95,190,35,Cash
+TXN00549,2026-06-27,P012,Coffee 10s,Beverages,1,85,85,39,Cash
+TXN00780,2026-06-27,P005,Laundry Detergent,Household,2,55,110,26,Cash
+TXN00803,2026-06-27,P008,Bottled Water,Beverages,1,20,20,249,Cash
+TXN00949,2026-06-27,P009,Soft Drink 1.5L,Beverages,1,75,75,0,Cash
+TXN00974,2026-06-27,P002,Cooking Oil 1L,Grocery,3,95,285,0,E-wallet
+TXN00999,2026-06-27,P005,Laundry Detergent,Household,1,55,55,0,E-wallet
+TXN00010,2026-06-28,P012,Coffee 10s,Beverages,1,85,85,137,E-wallet
+TXN00466,2026-06-28,P003,Instant Noodles,Grocery,2,15,30,448,Debit/Credit Card
+TXN00469,2026-06-28,P007,Shampoo Sachet,Personal Care,1,8,8,518,Debit/Credit Card
+TXN00610,2026-06-28,P011,Eggs Dozen,Grocery,1,110,110,0,E-wallet
+TXN00821,2026-06-28,P011,Eggs Dozen,Grocery,1,110,110,0,Cash
